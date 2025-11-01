@@ -1,0 +1,1001 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+Cust0001,Male,0,No,No,67,Yes,No,Fiber optic,No internet service,Yes,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Electronic check,69.13,4642.02,No
+Cust0002,Male,0,No,Yes,4,Yes,No phone service,DSL,Yes,No,No,Yes,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),37.61,153.25,Yes
+Cust0003,Female,0,Yes,No,39,Yes,No,DSL,No,No,No internet service,No internet service,Yes,Yes,Month-to-month,No,Bank transfer (automatic),55.36,2167.44,No
+Cust0004,Female,0,No,No,12,Yes,No,No,No,Yes,No,No,No internet service,Yes,One year,No,Credit card (automatic),35.74,410.79,No
+Cust0005,Female,0,No,Yes,35,Yes,No phone service,DSL,No internet service,No,Yes,No,No internet service,No,Two year,Yes,Electronic check,43.36,1497.35,No
+Cust0006,Female,0,Yes,No,13,Yes,No phone service,DSL,Yes,Yes,Yes,No internet service,No,Yes,Month-to-month,Yes,Credit card (automatic),55.65,724.34,Yes
+Cust0007,Male,0,No,No,20,Yes,No,Fiber optic,No internet service,No,Yes,No internet service,No,Yes,Month-to-month,Yes,Mailed check,70.5,1427.5,No
+Cust0008,Male,0,No,No,41,Yes,Yes,DSL,No internet service,Yes,No internet service,Yes,No internet service,Yes,Two year,No,Mailed check,59.69,2463.67,No
+Cust0009,Male,0,Yes,Yes,5,Yes,Yes,Fiber optic,Yes,No internet service,Yes,No,Yes,Yes,One year,Yes,Electronic check,88.4,453.09,Yes
+Cust0010,Male,0,Yes,Yes,48,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),82.51,3929.89,Yes
+Cust0011,Male,0,No,No,35,Yes,No,Fiber optic,No,No internet service,Yes,No,No internet service,No internet service,Two year,No,Electronic check,75.71,2626.51,No
+Cust0012,Female,0,No,Yes,25,Yes,No,DSL,No internet service,No internet service,No,No internet service,Yes,No,Month-to-month,Yes,Mailed check,56.8,1410.74,No
+Cust0013,Male,0,No,No,14,Yes,No phone service,Fiber optic,No,No,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,71.02,992.36,Yes
+Cust0014,Male,0,Yes,Yes,23,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,64.52,1490.33,Yes
+Cust0015,Male,0,No,No,37,Yes,No phone service,DSL,No internet service,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,71.35,2629.54,Yes
+Cust0016,Male,1,Yes,No,41,Yes,No phone service,Fiber optic,No internet service,No,No,No internet service,No,No internet service,Month-to-month,Yes,Electronic check,80.27,3282.07,Yes
+Cust0017,Female,1,Yes,No,31,Yes,Yes,Fiber optic,No internet service,Yes,No,Yes,No,No,Month-to-month,No,Credit card (automatic),63.18,1967.98,Yes
+Cust0018,Male,0,Yes,No,64,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),27.56,1782.4,No
+Cust0019,Male,0,No,No,15,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,85.28,1297.64,No
+Cust0020,Female,0,Yes,Yes,56,Yes,Yes,DSL,Yes,Yes,Yes,No internet service,No,No,Month-to-month,No,Bank transfer (automatic),35.91,1991.44,Yes
+Cust0021,Male,0,Yes,Yes,52,No,Yes,DSL,Yes,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),48.91,2536.71,Yes
+Cust0022,Female,0,Yes,No,68,Yes,No,DSL,No internet service,Yes,No,No,No internet service,No internet service,One year,Yes,Mailed check,50.02,3387.54,No
+Cust0023,Male,1,Yes,Yes,67,Yes,No,Fiber optic,No,No internet service,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,78.13,5191.38,No
+Cust0024,Male,0,Yes,Yes,6,Yes,Yes,Fiber optic,No internet service,No internet service,No,Yes,No,No internet service,One year,Yes,Bank transfer (automatic),64.61,398.66,No
+Cust0025,Male,0,No,No,54,Yes,Yes,No,No internet service,No internet service,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),28.32,1557.45,No
+Cust0026,Female,0,No,Yes,11,No,No phone service,DSL,No,Yes,No internet service,No internet service,Yes,No internet service,Month-to-month,Yes,Electronic check,73.27,819.09,Yes
+Cust0027,Female,0,No,No,7,Yes,No phone service,DSL,No internet service,No,Yes,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),52.01,368.9,Yes
+Cust0028,Female,0,No,Yes,53,No,Yes,Fiber optic,No internet service,No,Yes,Yes,Yes,No,One year,Yes,Mailed check,88.52,4650.58,No
+Cust0029,Male,0,No,Yes,54,Yes,No,DSL,No,Yes,No,Yes,No internet service,Yes,One year,Yes,Electronic check,56.16,3046.53,No
+Cust0030,Male,1,Yes,No,40,Yes,Yes,DSL,Yes,Yes,No,No internet service,No internet service,No internet service,One year,Yes,Electronic check,56.01,2243.88,Yes
+Cust0031,Female,0,Yes,Yes,39,Yes,Yes,Fiber optic,No,No internet service,No internet service,No internet service,Yes,No,Month-to-month,Yes,Electronic check,79.86,3083.62,Yes
+Cust0032,Male,0,Yes,Yes,50,Yes,No,Fiber optic,Yes,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),72.88,3651.44,Yes
+Cust0033,Male,0,Yes,No,29,Yes,Yes,No,No,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),26.64,765.24,Yes
+Cust0034,Female,0,Yes,No,56,Yes,Yes,DSL,Yes,No internet service,No internet service,No internet service,No,No,Month-to-month,No,Credit card (automatic),49.73,2827.88,Yes
+Cust0035,Female,0,No,Yes,65,Yes,No,Fiber optic,No,No internet service,Yes,Yes,No internet service,Yes,Month-to-month,No,Electronic check,84.73,5511.31,Yes
+Cust0036,Female,0,No,Yes,58,Yes,No,DSL,No,No internet service,No,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),43.34,2539.51,No
+Cust0037,Female,0,No,No,12,Yes,Yes,DSL,Yes,Yes,No internet service,No internet service,No,No internet service,Month-to-month,No,Credit card (automatic),43.94,531.57,Yes
+Cust0038,Female,0,Yes,Yes,32,Yes,No,DSL,No internet service,No internet service,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),63.06,1999.84,No
+Cust0039,Male,0,No,Yes,13,No,No,No,Yes,No internet service,No internet service,Yes,No,No internet service,One year,No,Mailed check,25.07,342.55,No
+Cust0040,Male,0,No,No,17,Yes,No phone service,Fiber optic,Yes,Yes,No,No,No internet service,No internet service,Two year,No,Mailed check,71.42,1192.25,No
+Cust0041,Female,0,No,No,32,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,Yes,No internet service,No internet service,Two year,No,Credit card (automatic),68.39,2179.23,No
+Cust0042,Female,0,Yes,No,37,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,One year,Yes,Electronic check,62.83,2248.6,No
+Cust0043,Female,0,No,No,29,Yes,No,DSL,No,Yes,Yes,No,No internet service,No internet service,One year,No,Electronic check,56.95,1651.71,No
+Cust0044,Female,0,Yes,Yes,7,Yes,Yes,DSL,No internet service,No internet service,No internet service,No,No,No internet service,Two year,No,Mailed check,56.42,395.94,Yes
+Cust0045,Female,0,Yes,Yes,35,Yes,No phone service,DSL,No internet service,No,Yes,No,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),56.15,1924.39,Yes
+Cust0046,Female,0,Yes,No,49,Yes,No,No,No internet service,No internet service,Yes,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),20.39,981.62,Yes
+Cust0047,Female,1,Yes,Yes,61,Yes,Yes,No,Yes,No internet service,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),14.77,892.39,Yes
+Cust0048,Female,0,No,Yes,28,Yes,No,Fiber optic,Yes,No,No,No internet service,Yes,No,Month-to-month,No,Credit card (automatic),79.25,2222.87,Yes
+Cust0049,Male,0,No,No,67,Yes,Yes,Fiber optic,Yes,Yes,No,No internet service,No,No,Month-to-month,No,Mailed check,71.47,4763.19,Yes
+Cust0050,Female,0,No,No,10,Yes,No phone service,DSL,Yes,Yes,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Mailed check,56.48,556.97,Yes
+Cust0051,Female,0,No,No,69,Yes,No,No,No,Yes,No internet service,Yes,No internet service,No internet service,Two year,No,Electronic check,25.45,1767.41,No
+Cust0052,Female,0,No,No,31,Yes,No,Fiber optic,No internet service,No internet service,Yes,No,No,No internet service,Two year,No,Bank transfer (automatic),70.5,2242.39,No
+Cust0053,Male,1,Yes,Yes,42,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No internet service,Month-to-month,No,Mailed check,88.45,3709.1,Yes
+Cust0054,Male,0,Yes,No,34,Yes,No,Fiber optic,Yes,No internet service,Yes,No internet service,No internet service,No,Month-to-month,No,Electronic check,77.37,2638.14,Yes
+Cust0055,Female,0,No,No,70,Yes,Yes,Fiber optic,No internet service,No internet service,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,88.53,6165.67,No
+Cust0056,Female,0,Yes,Yes,27,No,Yes,Fiber optic,Yes,Yes,No internet service,No internet service,Yes,No,One year,No,Mailed check,86.76,2331.91,No
+Cust0057,Male,0,Yes,No,68,Yes,No phone service,Fiber optic,No internet service,No,Yes,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),60.59,4107.47,No
+Cust0058,Female,1,No,Yes,21,Yes,No phone service,Fiber optic,No,No internet service,No,No,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),77.36,1611.98,Yes
+Cust0059,Male,0,Yes,No,39,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,No,Yes,No internet service,One year,Yes,Mailed check,78.82,3061.85,No
+Cust0060,Female,0,Yes,Yes,63,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,One year,No,Mailed check,78.01,4908.31,Yes
+Cust0061,Female,0,No,Yes,59,Yes,No phone service,Fiber optic,No,Yes,No internet service,Yes,No,No internet service,Two year,Yes,Electronic check,69.03,4050.72,No
+Cust0062,Female,0,Yes,Yes,13,Yes,No,No,No internet service,Yes,No,No internet service,No,No,Month-to-month,Yes,Mailed check,18.36,233.2,Yes
+Cust0063,Male,0,No,No,9,Yes,No phone service,No,Yes,Yes,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Mailed check,18.88,164.04,Yes
+Cust0064,Male,0,Yes,No,11,Yes,Yes,DSL,No internet service,Yes,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,54.71,613.62,Yes
+Cust0065,Female,0,Yes,No,38,Yes,No phone service,Fiber optic,No,No,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),74.96,2842.99,Yes
+Cust0066,Male,0,Yes,Yes,60,Yes,Yes,DSL,No internet service,No internet service,No,No internet service,Yes,No internet service,Two year,Yes,Credit card (automatic),50.08,3004.09,No
+Cust0067,Male,0,No,Yes,5,Yes,No phone service,Fiber optic,No internet service,Yes,Yes,No internet service,No,Yes,One year,Yes,Mailed check,82.3,422.34,No
+Cust0068,Female,0,Yes,No,1,No,No phone service,Fiber optic,No,No internet service,No,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,84.19,80.51,Yes
+Cust0069,Female,0,Yes,No,63,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),61.69,3914.8,Yes
+Cust0070,Female,0,No,No,59,Yes,Yes,DSL,No internet service,No,No,No internet service,No internet service,Yes,Two year,No,Bank transfer (automatic),57.99,3435.87,No
+Cust0071,Male,0,No,Yes,67,Yes,No,Fiber optic,No internet service,Yes,Yes,No internet service,Yes,Yes,One year,Yes,Electronic check,87.76,5857.6,Yes
+Cust0072,Male,0,Yes,No,67,Yes,No,DSL,Yes,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,62.82,4249.15,Yes
+Cust0073,Male,1,No,Yes,26,Yes,No,No,Yes,No,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),34.04,860.85,Yes
+Cust0074,Male,0,No,No,49,Yes,No phone service,Fiber optic,Yes,Yes,No internet service,No internet service,No internet service,No,One year,No,Bank transfer (automatic),76.11,3745.8,No
+Cust0075,Male,0,Yes,No,11,Yes,No phone service,DSL,No,No internet service,No,No,Yes,No,Month-to-month,Yes,Mailed check,52.76,567.53,Yes
+Cust0076,Male,0,No,No,35,Yes,No phone service,No,Yes,No,Yes,Yes,Yes,No internet service,One year,Yes,Electronic check,31.09,1094.41,No
+Cust0077,Female,0,Yes,Yes,60,Yes,Yes,Fiber optic,No internet service,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,94.3,5639.67,No
+Cust0078,Male,1,Yes,Yes,55,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No internet service,One year,No,Bank transfer (automatic),87.23,4772.98,No
+Cust0079,Female,0,No,No,38,Yes,No,Fiber optic,No internet service,No internet service,No,No,No,No,Month-to-month,No,Mailed check,67.82,2566.7,No
+Cust0080,Male,0,Yes,No,55,Yes,Yes,DSL,No,No internet service,No internet service,Yes,No,Yes,Month-to-month,No,Electronic check,65.7,3614.55,Yes
+Cust0081,Female,0,Yes,No,29,Yes,Yes,Fiber optic,No,Yes,No,No internet service,No,No internet service,Month-to-month,No,Mailed check,76.79,2265.47,Yes
+Cust0082,Male,0,Yes,Yes,50,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,94.31,4718.41,Yes
+Cust0083,Male,0,Yes,Yes,57,Yes,Yes,No,No,No internet service,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),35.66,2027.06,No
+Cust0084,Female,0,Yes,No,45,Yes,Yes,Fiber optic,Yes,No,No,No,No internet service,Yes,Two year,Yes,Bank transfer (automatic),73.26,3320.42,No
+Cust0085,Female,0,Yes,Yes,3,Yes,No,Fiber optic,No internet service,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,81.27,258.91,No
+Cust0086,Male,0,No,No,68,Yes,No phone service,Fiber optic,No internet service,No,No internet service,No internet service,Yes,No internet service,One year,Yes,Credit card (automatic),76.27,5179.3,No
+Cust0087,Male,1,Yes,No,28,Yes,Yes,Fiber optic,Yes,No internet service,Yes,No,No,Yes,Month-to-month,No,Electronic check,81.96,2297.87,Yes
+Cust0088,Male,1,No,Yes,19,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Two year,Yes,Electronic check,68.02,1262.6,No
+Cust0089,Female,0,No,No,37,Yes,No,DSL,No,Yes,Yes,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,39.75,1472.39,No
+Cust0090,Female,0,Yes,No,6,Yes,No,DSL,Yes,No internet service,No internet service,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),53.59,351.1,No
+Cust0091,Female,0,No,Yes,52,Yes,No,DSL,No,Yes,No,Yes,Yes,No internet service,Month-to-month,No,Electronic check,53.67,2775.18,Yes
+Cust0092,Female,0,No,No,24,Yes,Yes,Fiber optic,Yes,No internet service,Yes,No,No internet service,No,Month-to-month,No,Credit card (automatic),76.11,1855.11,No
+Cust0093,Male,0,No,Yes,6,Yes,No phone service,DSL,Yes,No internet service,No,No,Yes,No,Month-to-month,Yes,Mailed check,53.67,319.07,Yes
+Cust0094,Male,0,Yes,No,19,Yes,No,DSL,No internet service,No internet service,No internet service,No internet service,No,No,Month-to-month,Yes,Credit card (automatic),52.31,953.6,Yes
+Cust0095,Female,0,No,No,65,Yes,Yes,Fiber optic,No internet service,No internet service,No,No internet service,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),87.5,5675.32,No
+Cust0096,Female,0,No,Yes,23,Yes,Yes,Fiber optic,No internet service,Yes,No,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),71.32,1654.33,No
+Cust0097,Male,0,Yes,Yes,53,Yes,Yes,DSL,No,Yes,No,No internet service,Yes,No internet service,Month-to-month,No,Credit card (automatic),61.52,3253.82,Yes
+Cust0098,Male,0,No,Yes,35,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Two year,No,Electronic check,22.39,782.34,No
+Cust0099,Female,1,Yes,Yes,2,Yes,No,Fiber optic,No,Yes,Yes,No internet service,Yes,No,Month-to-month,Yes,Bank transfer (automatic),86.16,188.85,Yes
+Cust0100,Male,0,No,Yes,48,Yes,Yes,DSL,No,No internet service,No internet service,No,Yes,Yes,One year,Yes,Electronic check,63.55,3060.83,No
+Cust0101,Female,0,Yes,Yes,27,Yes,No,No,No internet service,No,No internet service,No internet service,Yes,No,One year,Yes,Bank transfer (automatic),30.99,820.66,No
+Cust0102,Male,0,No,No,69,Yes,Yes,DSL,No internet service,No,No,No internet service,No,Yes,One year,No,Mailed check,49.98,3418.69,Yes
+Cust0103,Female,1,No,No,5,Yes,Yes,DSL,Yes,No,No internet service,Yes,No internet service,No,Month-to-month,Yes,Electronic check,50.85,239.46,Yes
+Cust0104,Male,0,Yes,No,9,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,No,No internet service,No,One year,No,Mailed check,59.91,583.99,Yes
+Cust0105,Female,0,No,Yes,30,Yes,No,No,Yes,No internet service,Yes,Yes,Yes,No internet service,Month-to-month,No,Credit card (automatic),21.33,665.33,Yes
+Cust0106,Male,0,No,No,47,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,No internet service,No,Yes,Month-to-month,Yes,Mailed check,75.99,3533.6,Yes
+Cust0107,Female,0,No,Yes,41,Yes,Yes,Fiber optic,No internet service,No,Yes,No,No,No internet service,Month-to-month,Yes,Mailed check,72.19,2928.85,Yes
+Cust0108,Male,1,No,Yes,12,Yes,No,No,No internet service,No internet service,No,No,Yes,No,Month-to-month,No,Mailed check,32.14,356.53,No
+Cust0109,Female,0,Yes,No,10,Yes,Yes,Fiber optic,No internet service,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),74.25,725.74,Yes
+Cust0110,Female,0,Yes,Yes,13,Yes,Yes,DSL,Yes,No internet service,No internet service,No internet service,No internet service,No,Two year,Yes,Credit card (automatic),44.15,548.4,No
+Cust0111,Male,0,No,No,60,Yes,No,Fiber optic,No internet service,Yes,Yes,No,No internet service,Yes,One year,Yes,Mailed check,72.08,4320.84,No
+Cust0112,Male,1,No,Yes,59,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),67.59,3970.62,Yes
+Cust0113,Female,0,No,Yes,9,No,No phone service,No,Yes,No,No,No,Yes,Yes,Two year,Yes,Mailed check,36.62,305.03,Yes
+Cust0114,Male,0,No,Yes,18,Yes,Yes,Fiber optic,Yes,No,No,No,No internet service,No,Month-to-month,Yes,Electronic check,72.91,1298.55,No
+Cust0115,Female,0,Yes,Yes,58,Yes,No phone service,DSL,No,Yes,No,No internet service,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),42.55,2459.84,Yes
+Cust0116,Female,0,Yes,Yes,34,Yes,Yes,DSL,No,No internet service,No,No,No,Yes,Month-to-month,Yes,Mailed check,58.77,1965.74,No
+Cust0117,Male,0,No,No,56,Yes,No phone service,No,No internet service,No internet service,No,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),26.43,1493.18,No
+Cust0118,Male,0,Yes,No,20,Yes,No,Fiber optic,No,Yes,Yes,Yes,No internet service,Yes,One year,Yes,Mailed check,76.79,1530.33,Yes
+Cust0119,Male,0,Yes,No,8,Yes,Yes,Fiber optic,No internet service,No,No internet service,No,No internet service,No internet service,One year,No,Bank transfer (automatic),73.28,585.52,Yes
+Cust0120,Male,0,Yes,Yes,45,Yes,No,Fiber optic,No internet service,No,Yes,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),63.07,2856.77,No
+Cust0121,Male,0,No,Yes,2,Yes,No,DSL,No internet service,No internet service,No internet service,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),43.13,96.48,Yes
+Cust0122,Male,1,No,No,52,Yes,No phone service,Fiber optic,No internet service,No,No internet service,No internet service,No,Yes,One year,Yes,Mailed check,77.4,4005.88,Yes
+Cust0123,Female,0,Yes,Yes,70,No,Yes,No,No internet service,No internet service,No internet service,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),35.15,2472.09,Yes
+Cust0124,Male,1,Yes,No,10,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Electronic check,61.56,622.4,Yes
+Cust0125,Female,0,Yes,No,16,Yes,No phone service,No,No,No internet service,No,Yes,Yes,No internet service,One year,No,Credit card (automatic),22.71,367.24,No
+Cust0126,Female,0,No,Yes,58,Yes,No phone service,Fiber optic,No internet service,Yes,Yes,No,Yes,No,Two year,Yes,Electronic check,85.45,4956.83,No
+Cust0127,Male,0,Yes,Yes,29,Yes,No,Fiber optic,No,No,No internet service,No,No internet service,No internet service,One year,No,Electronic check,77.73,2267.24,Yes
+Cust0128,Female,0,No,No,7,Yes,No phone service,DSL,No internet service,No internet service,Yes,No internet service,No,No,Month-to-month,No,Mailed check,57.54,421.95,Yes
+Cust0129,Male,0,Yes,Yes,67,Yes,No phone service,Fiber optic,No,No,No internet service,No internet service,No,No internet service,One year,No,Bank transfer (automatic),68.03,4563.21,No
+Cust0130,Male,0,No,Yes,57,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),81.64,4681.13,Yes
+Cust0131,Male,0,Yes,Yes,34,Yes,No,No,Yes,Yes,No internet service,No,No internet service,Yes,Month-to-month,Yes,Electronic check,33.14,1138.73,Yes
+Cust0132,Male,0,No,No,70,Yes,Yes,No,No,No,No internet service,No,No,Yes,One year,No,Bank transfer (automatic),26.0,1818.34,No
+Cust0133,Male,0,Yes,No,0,Yes,No,Fiber optic,Yes,Yes,Yes,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),77.95,0.0,Yes
+Cust0134,Male,0,Yes,Yes,34,Yes,Yes,Fiber optic,Yes,No,No,No,No,No internet service,Month-to-month,No,Electronic check,75.3,2535.22,Yes
+Cust0135,Female,1,No,No,9,No,No,DSL,Yes,No,No internet service,No,No,Yes,Two year,Yes,Bank transfer (automatic),54.55,476.53,Yes
+Cust0136,Male,1,Yes,No,63,Yes,Yes,Fiber optic,No internet service,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),69.88,4391.0,No
+Cust0137,Female,1,No,No,29,Yes,Yes,DSL,No,No,Yes,No,Yes,No,Two year,No,Mailed check,51.06,1460.55,No
+Cust0138,Female,0,No,No,19,No,Yes,Fiber optic,No,Yes,No,No,No,No internet service,Month-to-month,No,Credit card (automatic),62.75,1214.29,Yes
+Cust0139,Male,1,Yes,No,57,Yes,No phone service,Fiber optic,Yes,Yes,No internet service,Yes,No,No internet service,Two year,No,Credit card (automatic),69.07,3930.66,No
+Cust0140,Male,0,Yes,No,61,Yes,Yes,Fiber optic,No internet service,No,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),64.0,3881.8,No
+Cust0141,Male,1,Yes,No,20,Yes,No phone service,Fiber optic,No,No,No internet service,No internet service,Yes,Yes,One year,Yes,Credit card (automatic),74.22,1497.17,No
+Cust0142,Male,0,No,No,54,Yes,No,DSL,No,No,No,No,No internet service,Yes,Two year,Yes,Mailed check,50.3,2701.26,No
+Cust0143,Female,0,Yes,Yes,39,Yes,No,No,No internet service,No internet service,No internet service,No,No internet service,No internet service,One year,Yes,Credit card (automatic),22.37,838.38,No
+Cust0144,Female,0,Yes,No,34,Yes,No,Fiber optic,No,No internet service,No internet service,No,No internet service,Yes,Month-to-month,No,Electronic check,80.92,2756.55,No
+Cust0145,Female,0,Yes,Yes,40,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,One year,Yes,Electronic check,72.97,2895.65,No
+Cust0146,Female,0,Yes,Yes,24,Yes,No phone service,DSL,Yes,No,No,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),43.93,1009.7,Yes
+Cust0147,Male,0,No,No,41,No,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,No,Mailed check,73.64,3035.05,Yes
+Cust0148,Male,1,No,Yes,53,Yes,No phone service,Fiber optic,No,No internet service,No,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,64.51,3424.79,Yes
+Cust0149,Female,0,No,Yes,70,Yes,No,DSL,Yes,Yes,No internet service,No,No internet service,Yes,One year,No,Electronic check,53.0,3689.66,No
+Cust0150,Female,0,Yes,No,12,Yes,Yes,DSL,No internet service,No,No,No,Yes,Yes,One year,Yes,Credit card (automatic),61.27,729.67,No
+Cust0151,Male,1,Yes,No,3,Yes,Yes,DSL,No internet service,No internet service,Yes,Yes,Yes,No internet service,Month-to-month,Yes,Electronic check,57.6,208.61,Yes
+Cust0152,Male,0,No,Yes,0,No,Yes,Fiber optic,No internet service,No,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),75.89,0.0,Yes
+Cust0153,Female,0,No,Yes,38,Yes,No,DSL,No internet service,Yes,No,No,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),48.22,1828.14,No
+Cust0154,Male,0,No,No,33,Yes,No phone service,No,No internet service,No internet service,Yes,No,No internet service,No,Month-to-month,No,Mailed check,33.12,1101.52,Yes
+Cust0155,Male,0,No,Yes,45,Yes,Yes,No,No internet service,No,No,Yes,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),33.94,1496.57,Yes
+Cust0156,Male,0,Yes,Yes,18,No,Yes,Fiber optic,No,No,Yes,No internet service,No,Yes,One year,No,Electronic check,78.44,1431.13,No
+Cust0157,Male,0,Yes,Yes,39,Yes,No,DSL,Yes,Yes,No,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),48.23,1873.54,Yes
+Cust0158,Female,0,Yes,Yes,33,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,No,No internet service,Month-to-month,Yes,Credit card (automatic),74.13,2456.57,Yes
+Cust0159,Female,0,No,No,31,Yes,No phone service,Fiber optic,No,Yes,Yes,No,No internet service,No,Month-to-month,No,Bank transfer (automatic),75.84,2339.35,Yes
+Cust0160,Male,0,No,No,69,Yes,No phone service,DSL,No internet service,No internet service,No,No internet service,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),64.56,4487.31,No
+Cust0161,Female,0,Yes,No,26,Yes,No phone service,Fiber optic,No,No internet service,No internet service,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),79.11,2052.02,No
+Cust0162,Male,0,Yes,Yes,31,Yes,No,Fiber optic,No internet service,No internet service,Yes,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),56.63,1760.62,Yes
+Cust0163,Female,0,Yes,Yes,35,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),77.74,2720.88,No
+Cust0164,Male,1,No,No,71,Yes,No,Fiber optic,No,No internet service,No,No,No,Yes,Two year,Yes,Electronic check,76.84,5444.96,No
+Cust0165,Female,0,Yes,Yes,25,Yes,No phone service,DSL,No,No internet service,Yes,Yes,No,No,Two year,No,Electronic check,38.7,990.12,No
+Cust0166,Male,0,Yes,Yes,1,Yes,No phone service,Fiber optic,No internet service,No internet service,No,No internet service,Yes,Yes,Month-to-month,Yes,Credit card (automatic),93.47,68.64,Yes
+Cust0167,Female,1,Yes,No,67,Yes,Yes,Fiber optic,Yes,Yes,Yes,No internet service,No,No,One year,Yes,Credit card (automatic),58.88,3926.8,No
+Cust0168,Female,0,No,No,12,Yes,No phone service,DSL,No internet service,Yes,No,No internet service,No internet service,No,One year,Yes,Credit card (automatic),39.56,450.84,No
+Cust0169,Female,1,Yes,Yes,16,Yes,No,Fiber optic,No internet service,Yes,No internet service,No,Yes,No,One year,Yes,Mailed check,73.19,1166.65,No
+Cust0170,Female,0,No,No,23,Yes,Yes,No,No internet service,Yes,Yes,Yes,No internet service,Yes,One year,Yes,Mailed check,32.22,739.24,No
+Cust0171,Female,0,Yes,No,16,Yes,No,No,No internet service,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,19.89,329.98,Yes
+Cust0172,Female,0,Yes,Yes,9,Yes,Yes,DSL,No,No internet service,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),47.31,424.85,Yes
+Cust0173,Female,0,Yes,Yes,37,Yes,No phone service,DSL,No,No internet service,No internet service,Yes,Yes,No internet service,Month-to-month,No,Mailed check,53.73,1987.26,Yes
+Cust0174,Female,1,Yes,Yes,52,Yes,No phone service,Fiber optic,No,Yes,No,Yes,No internet service,No,Month-to-month,No,Credit card (automatic),71.67,3726.98,No
+Cust0175,Male,1,No,No,28,Yes,No,Fiber optic,No internet service,Yes,Yes,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),83.88,2333.99,Yes
+Cust0176,Male,0,Yes,No,25,Yes,Yes,DSL,No internet service,No,No internet service,No,No,No internet service,One year,No,Bank transfer (automatic),39.52,981.81,No
+Cust0177,Male,0,No,Yes,22,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),90.77,2006.82,No
+Cust0178,Male,0,Yes,Yes,46,Yes,No phone service,DSL,No,No internet service,No,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),55.98,2588.37,No
+Cust0179,Female,0,No,Yes,70,Yes,No phone service,Fiber optic,No internet service,No internet service,No internet service,No,Yes,Yes,Month-to-month,No,Electronic check,85.06,5960.01,No
+Cust0180,Male,0,Yes,No,20,No,Yes,No,Yes,No,No internet service,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),43.47,875.94,No
+Cust0181,Female,0,Yes,No,3,Yes,Yes,Fiber optic,No,No internet service,No,No internet service,No internet service,No,Month-to-month,No,Mailed check,67.44,235.55,Yes
+Cust0182,Male,0,No,Yes,57,Yes,No phone service,DSL,No internet service,No,Yes,No internet service,No,No,Two year,No,Credit card (automatic),41.77,2385.8,No
+Cust0183,Female,0,No,Yes,68,Yes,No phone service,DSL,No,Yes,No internet service,Yes,Yes,Yes,Month-to-month,No,Mailed check,65.37,4410.62,Yes
+Cust0184,Male,0,No,Yes,41,Yes,No,DSL,No internet service,No internet service,No internet service,Yes,No internet service,No internet service,One year,Yes,Electronic check,40.8,1623.43,No
+Cust0185,Male,0,Yes,No,71,Yes,No,DSL,Yes,No internet service,No internet service,No,No,Yes,Month-to-month,No,Electronic check,51.69,3664.42,Yes
+Cust0186,Male,0,No,No,60,Yes,No phone service,DSL,No internet service,Yes,No,No,No,No internet service,One year,No,Mailed check,52.99,3185.3,No
+Cust0187,Female,0,Yes,Yes,55,Yes,No phone service,Fiber optic,No internet service,No,Yes,No internet service,No,Yes,Month-to-month,Yes,Credit card (automatic),76.14,4206.04,Yes
+Cust0188,Male,0,No,Yes,18,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No internet service,Month-to-month,Yes,Electronic check,79.81,1479.32,No
+Cust0189,Male,0,No,No,58,Yes,Yes,DSL,No internet service,No,Yes,No internet service,Yes,No internet service,One year,No,Bank transfer (automatic),50.55,2940.23,No
+Cust0190,Male,0,No,No,62,Yes,No,Fiber optic,No,No,No internet service,Yes,Yes,No internet service,Month-to-month,No,Credit card (automatic),75.84,4698.75,Yes
+Cust0191,Female,1,Yes,Yes,67,No,No,DSL,No,No internet service,No internet service,No internet service,No,No internet service,One year,Yes,Mailed check,48.73,3251.84,Yes
+Cust0192,Male,0,Yes,No,30,No,No phone service,DSL,No internet service,No,No internet service,Yes,Yes,No internet service,Month-to-month,No,Mailed check,60.46,1800.9,Yes
+Cust0193,Female,0,No,No,52,Yes,No phone service,DSL,No,No internet service,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,60.48,3121.05,Yes
+Cust0194,Female,0,No,Yes,35,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Month-to-month,No,Electronic check,22.16,796.25,Yes
+Cust0195,Male,1,No,No,22,No,Yes,DSL,No,No,Yes,No,No internet service,No internet service,One year,Yes,Mailed check,46.49,1011.97,No
+Cust0196,Male,0,No,Yes,26,Yes,No,Fiber optic,Yes,No internet service,No,No,No,No,Two year,Yes,Electronic check,70.73,1817.98,No
+Cust0197,Female,0,No,No,68,Yes,Yes,DSL,Yes,No internet service,Yes,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,44.51,3063.2,Yes
+Cust0198,Female,0,Yes,Yes,46,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,Two year,No,Credit card (automatic),55.61,2563.61,Yes
+Cust0199,Female,1,No,Yes,17,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,36.12,600.79,Yes
+Cust0200,Male,0,No,Yes,44,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No internet service,No,No internet service,Two year,No,Mailed check,71.58,3187.84,No
+Cust0201,Female,0,No,No,4,Yes,Yes,Fiber optic,Yes,No internet service,No,No,No,Yes,Month-to-month,Yes,Mailed check,71.4,253.0,No
+Cust0202,Male,1,Yes,No,3,Yes,Yes,Fiber optic,No internet service,No internet service,No,Yes,No internet service,No,Month-to-month,Yes,Mailed check,74.87,216.58,Yes
+Cust0203,Male,0,No,Yes,17,Yes,No phone service,DSL,Yes,No internet service,No internet service,Yes,No,Yes,Two year,No,Mailed check,58.55,975.62,No
+Cust0204,Male,0,Yes,Yes,32,Yes,No phone service,Fiber optic,Yes,Yes,No,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),78.11,2519.41,No
+Cust0205,Male,0,Yes,No,66,Yes,No,DSL,No internet service,Yes,No,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,47.11,3087.37,Yes
+Cust0206,Male,1,No,Yes,7,Yes,No phone service,DSL,No,No internet service,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,57.62,447.73,Yes
+Cust0207,Female,0,No,No,10,Yes,Yes,Fiber optic,Yes,No,No internet service,No internet service,Yes,Yes,One year,No,Mailed check,94.6,954.03,No
+Cust0208,Female,0,Yes,No,47,Yes,No phone service,Fiber optic,No internet service,No,Yes,Yes,No internet service,No,One year,No,Mailed check,70.29,3284.32,No
+Cust0209,Male,1,No,No,52,Yes,Yes,Fiber optic,No,No,No internet service,Yes,No internet service,No,One year,No,Bank transfer (automatic),74.42,3885.59,No
+Cust0210,Male,0,No,Yes,8,Yes,Yes,Fiber optic,No,No internet service,No internet service,No internet service,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),82.29,667.0,Yes
+Cust0211,Female,0,Yes,No,61,Yes,No,Fiber optic,Yes,Yes,No,No internet service,Yes,Yes,Two year,No,Electronic check,85.12,5193.96,No
+Cust0212,Male,0,Yes,Yes,9,Yes,No,DSL,Yes,No internet service,No,No internet service,No,No,Two year,Yes,Bank transfer (automatic),44.87,408.8,No
+Cust0213,Male,0,Yes,Yes,47,Yes,No phone service,Fiber optic,Yes,No internet service,No,No internet service,Yes,Yes,One year,No,Credit card (automatic),86.63,4044.63,No
+Cust0214,Male,0,No,Yes,13,Yes,No,DSL,Yes,Yes,No internet service,No internet service,No,No,Month-to-month,Yes,Credit card (automatic),50.63,638.59,No
+Cust0215,Female,1,Yes,No,3,Yes,No,Fiber optic,No,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,No,Electronic check,93.3,294.07,Yes
+Cust0216,Male,0,No,No,47,Yes,No phone service,Fiber optic,No internet service,No,No internet service,Yes,No internet service,Yes,One year,Yes,Electronic check,80.39,3760.9,No
+Cust0217,Female,0,No,Yes,62,Yes,Yes,DSL,No,No,Yes,No internet service,No,No,One year,No,Credit card (automatic),40.9,2520.75,No
+Cust0218,Male,1,No,No,53,Yes,No,Fiber optic,No internet service,No,No internet service,No,No,No internet service,Two year,No,Credit card (automatic),77.8,4152.23,Yes
+Cust0219,Female,0,Yes,No,1,Yes,No,Fiber optic,No,No internet service,Yes,Yes,No internet service,No internet service,Two year,Yes,Mailed check,71.38,79.04,No
+Cust0220,Female,0,Yes,Yes,44,Yes,No,Fiber optic,No internet service,Yes,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,86.15,3773.9,No
+Cust0221,Male,0,No,Yes,68,Yes,Yes,DSL,No internet service,Yes,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),60.74,4107.57,No
+Cust0222,Male,0,Yes,Yes,1,Yes,Yes,DSL,No internet service,No,No,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),40.24,21.72,Yes
+Cust0223,Male,0,No,No,65,Yes,No,Fiber optic,No,No,Yes,No internet service,No,No,Month-to-month,Yes,Electronic check,75.09,4845.6,No
+Cust0224,Female,0,No,Yes,42,Yes,No phone service,Fiber optic,No,No,Yes,No,No internet service,No internet service,Month-to-month,No,Electronic check,69.15,2911.6,Yes
+Cust0225,Male,0,No,No,20,Yes,No,DSL,No,No,No internet service,No internet service,No,No,One year,Yes,Credit card (automatic),41.85,851.17,No
+Cust0226,Male,0,Yes,No,16,Yes,Yes,Fiber optic,No,No internet service,No internet service,No,No internet service,Yes,Two year,Yes,Credit card (automatic),81.02,1313.07,No
+Cust0227,Male,1,Yes,Yes,43,Yes,Yes,DSL,Yes,No internet service,Yes,Yes,No internet service,No internet service,One year,Yes,Credit card (automatic),43.87,1870.26,No
+Cust0228,Male,0,No,No,38,Yes,No phone service,DSL,No internet service,Yes,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),63.8,2400.04,Yes
+Cust0229,Female,0,No,No,58,Yes,No phone service,DSL,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),47.92,2811.83,Yes
+Cust0230,Male,0,No,No,64,Yes,Yes,DSL,No internet service,No internet service,No internet service,No,Yes,No,Month-to-month,No,Mailed check,59.64,3829.7,No
+Cust0231,Male,0,Yes,Yes,70,Yes,No,DSL,No internet service,No internet service,No internet service,No,No,Yes,Month-to-month,No,Credit card (automatic),56.34,3927.09,Yes
+Cust0232,Female,1,Yes,No,4,Yes,No,DSL,No,No internet service,Yes,No,No internet service,Yes,Month-to-month,No,Credit card (automatic),56.24,229.61,Yes
+Cust0233,Female,0,Yes,Yes,17,Yes,No,Fiber optic,Yes,No,No internet service,No,No,No,Month-to-month,No,Bank transfer (automatic),66.22,1137.69,Yes
+Cust0234,Male,0,No,Yes,30,Yes,No phone service,Fiber optic,No,No,Yes,No,No internet service,Yes,One year,No,Bank transfer (automatic),84.84,2533.38,Yes
+Cust0235,Female,0,Yes,Yes,67,Yes,No,No,No internet service,No internet service,Yes,No,No,No internet service,Two year,Yes,Electronic check,23.81,1602.79,No
+Cust0236,Female,0,Yes,No,55,Yes,No,Fiber optic,No internet service,Yes,Yes,Yes,Yes,No internet service,One year,Yes,Credit card (automatic),78.67,4307.39,No
+Cust0237,Female,0,No,Yes,45,Yes,Yes,No,No internet service,No internet service,No,No internet service,No,No,Month-to-month,No,Electronic check,20.61,960.2,Yes
+Cust0238,Male,0,No,No,23,Yes,Yes,DSL,No internet service,No internet service,No,No,No,No internet service,Month-to-month,No,Bank transfer (automatic),44.78,1027.9,No
+Cust0239,Male,0,Yes,Yes,23,Yes,No phone service,DSL,No,No,No,No internet service,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),49.1,1121.45,No
+Cust0240,Female,0,No,Yes,36,Yes,No,DSL,No,No,Yes,Yes,Yes,No,Two year,Yes,Mailed check,48.36,1755.15,Yes
+Cust0241,Male,0,No,Yes,26,Yes,Yes,DSL,No internet service,No internet service,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),65.4,1686.61,Yes
+Cust0242,Male,0,Yes,Yes,24,No,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),24.45,579.66,No
+Cust0243,Female,0,No,No,53,Yes,No,Fiber optic,Yes,Yes,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),80.07,4278.99,No
+Cust0244,Male,0,Yes,No,13,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),70.47,912.36,No
+Cust0245,Female,0,No,Yes,51,Yes,No phone service,DSL,No internet service,Yes,No,Yes,No,No,One year,No,Credit card (automatic),37.9,1924.15,No
+Cust0246,Male,0,Yes,No,49,Yes,No,DSL,No,Yes,Yes,No,No internet service,No internet service,Month-to-month,Yes,Mailed check,49.6,2419.57,Yes
+Cust0247,Female,0,Yes,No,10,Yes,Yes,DSL,No,No,Yes,No internet service,No,Yes,Two year,No,Mailed check,62.67,601.86,No
+Cust0248,Male,0,Yes,No,15,Yes,Yes,DSL,No internet service,No internet service,Yes,No,No internet service,No,One year,Yes,Bank transfer (automatic),47.81,714.11,No
+Cust0249,Male,0,No,No,14,Yes,No,DSL,No,No,Yes,Yes,No internet service,No,Month-to-month,No,Mailed check,44.72,645.92,No
+Cust0250,Female,0,Yes,No,42,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,Yes,No,No,One year,No,Mailed check,69.17,2941.15,No
+Cust0251,Male,0,No,Yes,9,Yes,Yes,Fiber optic,No internet service,No internet service,No,No internet service,No,Yes,Two year,Yes,Mailed check,79.88,744.09,No
+Cust0252,Female,0,No,Yes,41,Yes,No phone service,Fiber optic,Yes,Yes,No,No internet service,No internet service,Yes,Two year,Yes,Mailed check,88.92,3628.35,No
+Cust0253,Female,0,Yes,Yes,26,Yes,No phone service,DSL,Yes,Yes,Yes,No internet service,No,No,Two year,No,Credit card (automatic),46.72,1205.46,Yes
+Cust0254,Female,0,No,No,57,Yes,No phone service,DSL,Yes,No,No internet service,No,Yes,No internet service,Two year,No,Bank transfer (automatic),53.76,3081.18,No
+Cust0255,Female,0,No,Yes,19,Yes,Yes,DSL,No internet service,No,No internet service,Yes,Yes,No,Month-to-month,No,Mailed check,54.04,1012.01,Yes
+Cust0256,Male,0,Yes,No,65,Yes,No phone service,Fiber optic,No internet service,Yes,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),66.78,4365.28,No
+Cust0257,Female,0,No,No,59,Yes,No,Fiber optic,No,Yes,No,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,64.17,3800.12,No
+Cust0258,Male,0,No,No,71,Yes,No,No,Yes,Yes,Yes,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),26.12,1861.14,No
+Cust0259,Male,0,Yes,Yes,38,Yes,No,Fiber optic,No,No,No,No,No internet service,Yes,Month-to-month,No,Electronic check,83.68,3199.24,Yes
+Cust0260,Female,0,No,No,23,No,Yes,No,No,No internet service,No,Yes,No,No internet service,One year,No,Credit card (automatic),21.75,458.7,No
+Cust0261,Female,0,No,Yes,42,Yes,No phone service,No,No internet service,Yes,No internet service,No internet service,Yes,No internet service,Two year,No,Mailed check,29.04,1220.75,No
+Cust0262,Male,1,Yes,Yes,55,Yes,No phone service,DSL,Yes,Yes,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Mailed check,59.97,3285.42,Yes
+Cust0263,Male,0,Yes,No,7,Yes,No phone service,Fiber optic,No,No internet service,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),71.97,507.76,Yes
+Cust0264,Male,0,No,No,11,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No,No,No,One year,No,Mailed check,75.18,834.58,No
+Cust0265,Male,0,No,Yes,27,Yes,Yes,DSL,No,No,No internet service,No,No,No,Month-to-month,No,Mailed check,50.86,1398.86,Yes
+Cust0266,Female,0,Yes,No,8,Yes,Yes,No,No internet service,Yes,No,No internet service,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),39.52,341.25,Yes
+Cust0267,Female,0,No,Yes,1,Yes,Yes,Fiber optic,Yes,No,No,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),78.97,74.24,No
+Cust0268,Female,0,Yes,Yes,36,Yes,No,Fiber optic,No,Yes,No,No,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),80.2,2875.99,Yes
+Cust0269,Female,0,No,No,39,Yes,Yes,Fiber optic,Yes,No,No,No internet service,Yes,No,Two year,Yes,Mailed check,79.95,3149.83,No
+Cust0270,Male,0,No,Yes,47,Yes,No phone service,Fiber optic,No internet service,No,No internet service,No,Yes,No internet service,Month-to-month,Yes,Electronic check,79.29,3718.81,Yes
+Cust0271,Male,0,Yes,Yes,11,Yes,Yes,DSL,No internet service,No internet service,Yes,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),46.54,530.59,Yes
+Cust0272,Female,0,No,No,53,Yes,No phone service,DSL,No internet service,Yes,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,53.64,2797.4,No
+Cust0273,Male,0,No,No,12,Yes,Yes,DSL,No internet service,No internet service,Yes,No,No internet service,No,Month-to-month,No,Electronic check,52.12,629.82,Yes
+Cust0274,Female,0,Yes,No,31,Yes,No,Fiber optic,No internet service,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,77.97,2418.92,Yes
+Cust0275,Female,0,Yes,No,32,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No internet service,Month-to-month,No,Credit card (automatic),74.42,2339.11,Yes
+Cust0276,Female,0,Yes,No,63,Yes,No,DSL,No internet service,No internet service,Yes,No,Yes,No,Month-to-month,No,Bank transfer (automatic),48.8,3093.69,Yes
+Cust0277,Male,1,Yes,Yes,51,Yes,No,DSL,No,No,Yes,No internet service,No,Yes,Two year,No,Bank transfer (automatic),48.62,2485.28,No
+Cust0278,Female,0,No,Yes,33,Yes,No phone service,DSL,No internet service,Yes,No internet service,No internet service,No internet service,No,Two year,Yes,Electronic check,50.36,1650.81,No
+Cust0279,Male,0,No,Yes,68,Yes,No phone service,DSL,No internet service,No,No internet service,No,No internet service,Yes,Month-to-month,No,Credit card (automatic),54.72,3682.08,Yes
+Cust0280,Female,0,Yes,Yes,69,Yes,Yes,No,No internet service,No,No,No internet service,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),26.41,1836.3,Yes
+Cust0281,Male,0,Yes,No,20,Yes,No phone service,No,No internet service,No internet service,Yes,No internet service,Yes,Yes,Month-to-month,No,Bank transfer (automatic),44.62,885.48,No
+Cust0282,Female,0,No,Yes,46,Yes,No,Fiber optic,No internet service,No internet service,No,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),66.24,3027.74,No
+Cust0283,Male,0,No,Yes,30,Yes,Yes,Fiber optic,No,No,No internet service,No,No,No,Month-to-month,No,Electronic check,69.6,2066.34,Yes
+Cust0284,Female,0,No,No,13,Yes,Yes,Fiber optic,No,Yes,Yes,No,No internet service,No,One year,Yes,Bank transfer (automatic),66.75,873.32,Yes
+Cust0285,Female,0,Yes,Yes,68,Yes,No phone service,Fiber optic,No,Yes,No internet service,No,No internet service,No,Month-to-month,Yes,Electronic check,66.92,4539.65,Yes
+Cust0286,Male,0,No,No,42,Yes,No,DSL,No internet service,Yes,Yes,Yes,Yes,No,Two year,No,Bank transfer (automatic),56.96,2338.51,No
+Cust0287,Male,0,Yes,No,38,Yes,No,Fiber optic,Yes,No,No,No internet service,Yes,Yes,Month-to-month,No,Electronic check,87.62,3356.34,Yes
+Cust0288,Male,0,Yes,No,43,Yes,No phone service,Fiber optic,No,No internet service,Yes,No,No internet service,Yes,One year,Yes,Bank transfer (automatic),81.66,3507.96,No
+Cust0289,Female,1,Yes,No,62,Yes,No,No,No internet service,Yes,Yes,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),33.76,2122.02,Yes
+Cust0290,Male,1,Yes,Yes,60,No,Yes,DSL,Yes,No,No internet service,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),52.18,3117.54,No
+Cust0291,Male,0,No,No,33,No,Yes,No,Yes,No,Yes,No internet service,No internet service,No,One year,No,Credit card (automatic),21.7,689.12,No
+Cust0292,Female,0,No,No,24,Yes,No,DSL,No,No,No internet service,No,Yes,No,Month-to-month,Yes,Electronic check,54.19,1314.11,Yes
+Cust0293,Male,0,Yes,Yes,43,Yes,Yes,Fiber optic,Yes,Yes,Yes,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,74.39,3210.24,No
+Cust0294,Male,0,Yes,Yes,9,Yes,No phone service,Fiber optic,No,Yes,Yes,No,Yes,No internet service,One year,No,Bank transfer (automatic),71.97,653.03,Yes
+Cust0295,Female,0,No,Yes,34,No,No phone service,DSL,No,Yes,No,No,No internet service,Yes,One year,Yes,Electronic check,50.95,1721.82,Yes
+Cust0296,Female,0,Yes,No,36,Yes,No,Fiber optic,No,No internet service,No internet service,Yes,No,No internet service,Month-to-month,No,Mailed check,69.19,2508.98,Yes
+Cust0297,Female,0,Yes,Yes,41,Yes,No,No,Yes,Yes,No,Yes,No internet service,Yes,Month-to-month,No,Mailed check,31.75,1303.44,Yes
+Cust0298,Male,0,Yes,No,67,Yes,Yes,Fiber optic,No internet service,Yes,No,No internet service,Yes,Yes,Month-to-month,No,Mailed check,95.01,6372.2,Yes
+Cust0299,Male,1,Yes,Yes,51,Yes,Yes,No,No,Yes,Yes,No,No,No internet service,Month-to-month,No,Bank transfer (automatic),24.45,1251.03,Yes
+Cust0300,Female,0,No,Yes,37,Yes,Yes,DSL,No,No,Yes,No,No internet service,No,Two year,Yes,Mailed check,45.86,1703.27,No
+Cust0301,Female,1,Yes,Yes,53,No,No,DSL,No,No,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),63.17,3352.89,No
+Cust0302,Male,1,Yes,No,58,Yes,No,DSL,No,Yes,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,58.32,3369.61,Yes
+Cust0303,Male,0,No,Yes,66,Yes,No phone service,No,No,Yes,No internet service,No,Yes,No internet service,Two year,Yes,Mailed check,38.35,2545.41,Yes
+Cust0304,Female,0,No,Yes,59,Yes,Yes,Fiber optic,Yes,No,Yes,No internet service,Yes,No internet service,One year,No,Credit card (automatic),85.13,4998.79,No
+Cust0305,Male,1,No,Yes,53,Yes,Yes,Fiber optic,Yes,Yes,No,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),59.86,3194.91,Yes
+Cust0306,Male,0,No,Yes,70,Yes,No phone service,DSL,Yes,No,No internet service,No internet service,No,No,Month-to-month,No,Bank transfer (automatic),50.21,3504.64,No
+Cust0307,Female,1,Yes,Yes,37,Yes,Yes,No,No,No internet service,No,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),18.12,610.92,No
+Cust0308,Male,0,No,No,42,Yes,Yes,Fiber optic,No internet service,No,No,No,No internet service,Yes,One year,Yes,Credit card (automatic),81.24,3439.61,Yes
+Cust0309,Female,0,Yes,No,34,Yes,No phone service,DSL,No internet service,No,No,No internet service,No,No,Two year,No,Electronic check,51.37,1759.26,No
+Cust0310,Female,0,Yes,Yes,57,Yes,No phone service,DSL,No internet service,Yes,No,Yes,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),64.46,3690.07,Yes
+Cust0311,Female,0,Yes,No,54,Yes,Yes,No,No,No,No,No internet service,Yes,Yes,Two year,No,Credit card (automatic),42.98,2302.85,No
+Cust0312,Female,0,Yes,No,29,Yes,Yes,Fiber optic,No,No internet service,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),93.94,2683.95,No
+Cust0313,Male,0,No,No,38,Yes,Yes,Fiber optic,Yes,No internet service,Yes,No internet service,Yes,No,Two year,No,Mailed check,86.13,3297.84,No
+Cust0314,Female,0,Yes,Yes,55,No,No,DSL,No,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Mailed check,40.17,2203.02,No
+Cust0315,Male,0,No,Yes,24,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Mailed check,40.31,949.85,No
+Cust0316,Female,0,No,Yes,56,Yes,No phone service,No,Yes,Yes,No internet service,No,No internet service,No,Month-to-month,Yes,Electronic check,21.27,1199.22,Yes
+Cust0317,Female,0,No,No,46,Yes,Yes,No,No internet service,No internet service,No internet service,No,Yes,No,Two year,Yes,Electronic check,25.49,1118.61,Yes
+Cust0318,Female,0,No,Yes,16,Yes,No phone service,DSL,Yes,Yes,No internet service,No,No,No internet service,Month-to-month,No,Bank transfer (automatic),52.26,832.46,No
+Cust0319,Male,0,Yes,No,66,Yes,No phone service,DSL,No internet service,Yes,No internet service,Yes,No,Yes,One year,Yes,Mailed check,56.01,3681.96,No
+Cust0320,Female,0,No,No,66,Yes,No phone service,DSL,No,Yes,Yes,Yes,No internet service,No,Month-to-month,No,Electronic check,48.22,3211.57,Yes
+Cust0321,Female,0,No,No,6,Yes,No phone service,DSL,No internet service,No internet service,No,Yes,No,Yes,One year,No,Credit card (automatic),55.49,312.71,No
+Cust0322,Male,0,No,No,68,Yes,No,DSL,No internet service,Yes,Yes,Yes,No,Yes,One year,No,Electronic check,42.97,2903.83,No
+Cust0323,Female,0,No,No,68,Yes,No,No,No internet service,No internet service,No,Yes,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),18.9,1264.77,Yes
+Cust0324,Male,0,Yes,Yes,4,No,Yes,DSL,Yes,No,Yes,No internet service,Yes,No internet service,Two year,No,Electronic check,52.47,243.6,Yes
+Cust0325,Male,1,No,No,1,Yes,No,Fiber optic,Yes,No internet service,No,No,No,No internet service,One year,Yes,Credit card (automatic),78.67,65.26,No
+Cust0326,Female,0,Yes,Yes,48,Yes,No phone service,Fiber optic,No internet service,No,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),79.42,3815.59,Yes
+Cust0327,Female,0,Yes,Yes,56,Yes,No,Fiber optic,No internet service,No,No,Yes,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),78.33,4382.3,No
+Cust0328,Female,0,Yes,Yes,22,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,No,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),74.66,1625.82,Yes
+Cust0329,Male,0,Yes,Yes,10,Yes,Yes,No,No internet service,Yes,No internet service,No,Yes,No,One year,Yes,Mailed check,28.68,286.58,Yes
+Cust0330,Male,0,No,Yes,39,Yes,No phone service,No,No internet service,Yes,Yes,No,No internet service,No,Month-to-month,No,Electronic check,22.23,828.92,Yes
+Cust0331,Female,0,No,No,13,No,No,Fiber optic,Yes,No internet service,No internet service,No internet service,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),83.02,1060.24,Yes
+Cust0332,Male,1,No,Yes,4,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No,Yes,No internet service,Two year,Yes,Electronic check,76.13,284.25,Yes
+Cust0333,Male,0,No,No,29,Yes,Yes,Fiber optic,No,No internet service,Yes,No,No internet service,No internet service,Two year,No,Credit card (automatic),54.57,1606.71,No
+Cust0334,Female,0,Yes,Yes,47,Yes,No phone service,No,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),28.89,1360.57,No
+Cust0335,Female,0,Yes,No,42,Yes,No,Fiber optic,No internet service,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),96.36,4026.23,Yes
+Cust0336,Female,0,Yes,Yes,58,Yes,No phone service,Fiber optic,No,Yes,No internet service,Yes,No internet service,No,Month-to-month,No,Electronic check,66.51,3886.09,Yes
+Cust0337,Female,0,Yes,No,20,Yes,Yes,Fiber optic,No,No,Yes,Yes,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),63.59,1236.8,Yes
+Cust0338,Female,0,No,No,50,Yes,No phone service,No,No internet service,No,Yes,No internet service,Yes,No internet service,Two year,Yes,Electronic check,29.49,1479.71,No
+Cust0339,Male,0,No,No,53,Yes,No phone service,Fiber optic,Yes,No,No internet service,No,No internet service,Yes,Month-to-month,Yes,Electronic check,76.09,4024.8,Yes
+Cust0340,Male,0,No,Yes,44,Yes,No,DSL,Yes,No internet service,No,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),65.29,2851.42,No
+Cust0341,Female,0,Yes,No,14,Yes,No,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),83.26,1126.54,No
+Cust0342,Male,0,No,Yes,4,Yes,No phone service,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),72.42,341.48,No
+Cust0343,Female,0,Yes,Yes,0,Yes,No,DSL,No,No internet service,No,No,No internet service,Yes,Two year,No,Bank transfer (automatic),54.72,0.0,Yes
+Cust0344,Male,0,Yes,No,1,No,Yes,Fiber optic,No internet service,Yes,No,No,No,Yes,One year,No,Credit card (automatic),79.9,84.32,No
+Cust0345,Male,0,Yes,Yes,34,Yes,No,Fiber optic,No internet service,No,No,No internet service,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),78.85,2691.56,Yes
+Cust0346,Male,0,Yes,No,18,Yes,Yes,Fiber optic,No internet service,Yes,Yes,Yes,No internet service,No internet service,One year,Yes,Credit card (automatic),67.58,1222.03,No
+Cust0347,Male,0,Yes,Yes,10,Yes,No,Fiber optic,No internet service,No,No internet service,Yes,No,No,Two year,Yes,Bank transfer (automatic),71.04,702.57,Yes
+Cust0348,Male,0,Yes,Yes,33,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Two year,No,Mailed check,79.49,2641.03,No
+Cust0349,Female,0,Yes,No,8,Yes,No phone service,DSL,No internet service,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),59.87,479.71,Yes
+Cust0350,Female,0,No,Yes,18,Yes,No,No,Yes,Yes,No,Yes,No,No internet service,Month-to-month,No,Bank transfer (automatic),10.42,192.58,No
+Cust0351,Female,0,No,No,15,Yes,No,DSL,No internet service,Yes,Yes,No internet service,Yes,No,Month-to-month,No,Electronic check,57.83,875.26,No
+Cust0352,Male,0,Yes,No,22,Yes,Yes,DSL,Yes,No internet service,No,Yes,Yes,No internet service,Month-to-month,No,Electronic check,49.07,1096.49,No
+Cust0353,Male,0,Yes,No,36,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),75.87,2721.91,Yes
+Cust0354,Male,0,Yes,No,30,Yes,No phone service,DSL,No internet service,No,Yes,No internet service,No internet service,Yes,One year,No,Bank transfer (automatic),63.29,1876.99,No
+Cust0355,Male,0,No,Yes,61,Yes,No,Fiber optic,No internet service,Yes,Yes,Yes,No,No internet service,One year,Yes,Electronic check,72.23,4428.6,No
+Cust0356,Female,0,No,Yes,44,Yes,No,No,Yes,Yes,Yes,No,No internet service,Yes,One year,Yes,Bank transfer (automatic),31.42,1389.04,No
+Cust0357,Male,0,Yes,No,5,Yes,No phone service,Fiber optic,No internet service,No,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),86.6,417.45,Yes
+Cust0358,Male,0,Yes,No,36,Yes,No,DSL,Yes,No,No internet service,No internet service,No internet service,No,Month-to-month,No,Bank transfer (automatic),42.04,1474.61,Yes
+Cust0359,Female,1,No,Yes,31,No,No phone service,DSL,No,No internet service,No,Yes,Yes,No internet service,One year,No,Mailed check,49.59,1540.38,No
+Cust0360,Male,0,No,Yes,67,Yes,Yes,Fiber optic,No,Yes,No,No internet service,Yes,No,One year,No,Mailed check,83.83,5609.96,No
+Cust0361,Female,0,No,No,12,No,No,No,No,No,No,Yes,No internet service,Yes,Month-to-month,No,Electronic check,24.78,335.61,No
+Cust0362,Female,0,No,No,70,Yes,No,Fiber optic,No,No,No,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),60.68,4267.2,No
+Cust0363,Male,0,No,No,42,No,Yes,Fiber optic,No,No internet service,No internet service,No internet service,Yes,No,Month-to-month,Yes,Bank transfer (automatic),73.0,3104.6,Yes
+Cust0364,Female,0,No,No,8,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),70.64,504.47,Yes
+Cust0365,Male,0,No,Yes,26,Yes,Yes,Fiber optic,No,Yes,No internet service,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),81.75,2092.59,No
+Cust0366,Male,0,No,Yes,40,Yes,Yes,Fiber optic,Yes,Yes,No,No internet service,Yes,No,Two year,Yes,Bank transfer (automatic),76.79,3100.06,No
+Cust0367,Female,0,Yes,Yes,16,Yes,No phone service,DSL,Yes,No internet service,Yes,Yes,No,No internet service,Month-to-month,No,Electronic check,53.07,845.83,Yes
+Cust0368,Male,0,Yes,Yes,59,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),84.73,4996.69,Yes
+Cust0369,Female,0,Yes,Yes,12,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,No,Electronic check,83.95,1020.62,No
+Cust0370,Female,0,No,Yes,32,Yes,No,DSL,No,No internet service,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),56.49,1827.28,Yes
+Cust0371,Male,0,No,Yes,31,Yes,Yes,DSL,No,Yes,No internet service,No internet service,Yes,No,Two year,Yes,Bank transfer (automatic),52.04,1588.83,Yes
+Cust0372,Male,0,No,Yes,28,Yes,No,DSL,No,Yes,No,No internet service,No,Yes,Month-to-month,No,Mailed check,43.64,1238.1,No
+Cust0373,Male,0,No,Yes,51,No,Yes,Fiber optic,Yes,No,No internet service,No internet service,No internet service,Yes,One year,No,Credit card (automatic),82.02,4162.45,No
+Cust0374,Female,0,No,Yes,33,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No internet service,No,Yes,Two year,Yes,Credit card (automatic),76.48,2500.37,No
+Cust0375,Female,0,No,Yes,29,Yes,No phone service,No,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),29.23,826.64,Yes
+Cust0376,Male,0,Yes,No,42,Yes,No,Fiber optic,No internet service,Yes,No internet service,No internet service,Yes,No internet service,Two year,Yes,Mailed check,77.37,3226.38,No
+Cust0377,Female,1,Yes,Yes,52,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Two year,No,Bank transfer (automatic),85.55,4447.53,No
+Cust0378,Female,0,Yes,Yes,26,Yes,No,Fiber optic,Yes,Yes,No,Yes,No internet service,No,Month-to-month,Yes,Electronic check,65.99,1749.51,No
+Cust0379,Male,0,Yes,No,24,Yes,No phone service,Fiber optic,No internet service,No,No,Yes,Yes,No internet service,One year,No,Electronic check,81.84,1936.89,No
+Cust0380,Female,0,Yes,Yes,50,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,No,Yes,No internet service,One year,Yes,Electronic check,81.4,4081.07,No
+Cust0381,Male,0,No,No,50,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),78.11,3894.23,Yes
+Cust0382,Female,0,Yes,Yes,55,Yes,No phone service,DSL,No,No,No,No,No,Yes,One year,Yes,Credit card (automatic),61.07,3332.63,Yes
+Cust0383,Male,0,No,Yes,13,Yes,No,DSL,No internet service,Yes,No internet service,No,No internet service,No internet service,Month-to-month,No,Mailed check,42.78,536.79,Yes
+Cust0384,Male,0,Yes,No,60,Yes,No phone service,DSL,No internet service,Yes,No,Yes,No internet service,No internet service,Month-to-month,No,Mailed check,55.71,3326.39,No
+Cust0385,Female,0,Yes,No,41,Yes,No,DSL,Yes,No internet service,No internet service,No internet service,Yes,No,Month-to-month,No,Mailed check,52.04,2101.83,Yes
+Cust0386,Female,0,No,No,34,Yes,No phone service,Fiber optic,No,No internet service,No internet service,No,No internet service,No internet service,One year,Yes,Bank transfer (automatic),68.72,2333.2,No
+Cust0387,Male,0,Yes,No,46,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Credit card (automatic),80.92,3779.52,Yes
+Cust0388,Female,0,Yes,Yes,1,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),94.87,114.32,Yes
+Cust0389,Male,0,No,Yes,40,Yes,Yes,Fiber optic,Yes,Yes,Yes,No internet service,No,No,Month-to-month,No,Electronic check,72.87,2910.5,No
+Cust0390,Female,0,No,Yes,22,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Two year,No,Electronic check,90.75,1974.28,No
+Cust0391,Female,0,Yes,Yes,56,Yes,No,DSL,No,No internet service,Yes,Yes,No,No internet service,Month-to-month,Yes,Electronic check,43.04,2406.13,Yes
+Cust0392,Male,1,No,Yes,65,No,No phone service,Fiber optic,Yes,No,No,No,No,No internet service,Month-to-month,Yes,Electronic check,68.0,4409.93,Yes
+Cust0393,Female,0,Yes,No,61,Yes,No phone service,DSL,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),53.65,3264.63,Yes
+Cust0394,Male,0,No,No,39,Yes,Yes,Fiber optic,No,No internet service,No internet service,No,No,No internet service,Month-to-month,No,Credit card (automatic),74.51,2875.72,No
+Cust0395,Male,0,No,No,70,Yes,Yes,No,No,Yes,No,No,No,No internet service,Two year,Yes,Credit card (automatic),23.34,1635.34,No
+Cust0396,Male,1,Yes,No,24,Yes,No phone service,No,No internet service,No,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,14.24,330.04,Yes
+Cust0397,Female,0,Yes,Yes,2,No,Yes,DSL,Yes,No,No internet service,Yes,No,No,Month-to-month,Yes,Mailed check,46.66,81.75,Yes
+Cust0398,Female,0,Yes,No,25,Yes,No phone service,DSL,Yes,Yes,No,No,No internet service,Yes,Month-to-month,Yes,Electronic check,60.06,1485.83,Yes
+Cust0399,Female,1,Yes,No,33,Yes,Yes,DSL,Yes,Yes,No internet service,Yes,No,No,Month-to-month,Yes,Mailed check,47.45,1588.81,Yes
+Cust0400,Female,0,Yes,No,25,Yes,No,No,No,No,No internet service,Yes,Yes,No internet service,Two year,Yes,Electronic check,35.16,904.07,No
+Cust0401,Male,0,No,No,49,Yes,No,DSL,Yes,No,Yes,No,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),56.57,2794.63,Yes
+Cust0402,Female,0,No,Yes,3,Yes,No phone service,Fiber optic,Yes,No,No internet service,No internet service,Yes,Yes,Two year,No,Electronic check,86.34,266.85,No
+Cust0403,Male,0,Yes,No,23,Yes,Yes,DSL,No internet service,No,Yes,No,No internet service,No internet service,Month-to-month,No,Mailed check,38.37,867.21,Yes
+Cust0404,Female,0,Yes,No,43,Yes,No,No,No,No internet service,No internet service,Yes,Yes,No internet service,Two year,No,Bank transfer (automatic),31.6,1373.24,No
+Cust0405,Male,0,No,No,9,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,Yes,Yes,No,One year,No,Electronic check,80.93,769.52,No
+Cust0406,Male,0,Yes,Yes,27,Yes,No phone service,DSL,No internet service,Yes,No,No internet service,Yes,No internet service,Two year,No,Credit card (automatic),50.43,1365.46,Yes
+Cust0407,Male,0,No,No,39,Yes,Yes,No,No,No internet service,Yes,No internet service,No,No,One year,No,Mailed check,23.83,910.51,No
+Cust0408,Female,0,Yes,Yes,3,Yes,No phone service,DSL,No,Yes,No internet service,Yes,No internet service,No internet service,One year,Yes,Electronic check,49.27,174.74,No
+Cust0409,Female,0,Yes,Yes,69,No,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,91.12,6278.98,No
+Cust0410,Female,0,Yes,Yes,12,Yes,Yes,DSL,No internet service,Yes,Yes,No internet service,No,Yes,One year,Yes,Credit card (automatic),56.65,719.52,No
+Cust0411,Female,0,No,Yes,18,Yes,No phone service,DSL,Yes,No internet service,No internet service,No internet service,No,No internet service,One year,Yes,Electronic check,41.82,700.43,No
+Cust0412,Female,0,Yes,No,26,Yes,No phone service,No,Yes,No internet service,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),43.2,1122.8,Yes
+Cust0413,Male,0,Yes,Yes,14,Yes,No phone service,Fiber optic,No,No internet service,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),79.92,1121.35,Yes
+Cust0414,Female,0,No,Yes,7,Yes,No phone service,DSL,No internet service,Yes,No internet service,No internet service,No,No,Two year,No,Credit card (automatic),47.57,345.59,No
+Cust0415,Male,0,Yes,No,67,Yes,No,Fiber optic,No internet service,Yes,No,No internet service,Yes,No internet service,Two year,No,Electronic check,76.72,5154.72,No
+Cust0416,Male,0,No,No,51,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,43.13,2194.32,No
+Cust0417,Male,0,Yes,No,70,Yes,No,DSL,No,No,No internet service,No,Yes,No internet service,Two year,Yes,Electronic check,54.45,3799.33,No
+Cust0418,Female,0,Yes,Yes,26,Yes,No,DSL,No internet service,No internet service,Yes,No internet service,No,Yes,Month-to-month,No,Mailed check,53.32,1358.64,Yes
+Cust0419,Male,0,No,Yes,19,Yes,No phone service,Fiber optic,No,No,Yes,No internet service,No,No,Month-to-month,Yes,Credit card (automatic),68.05,1325.22,Yes
+Cust0420,Female,1,Yes,No,49,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,No,No,No,Month-to-month,Yes,Electronic check,74.45,3631.57,Yes
+Cust0421,Male,0,Yes,No,12,Yes,Yes,DSL,Yes,No,Yes,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),52.79,623.45,Yes
+Cust0422,Female,0,No,Yes,71,Yes,No phone service,DSL,Yes,No,No internet service,No internet service,No internet service,No,One year,Yes,Bank transfer (automatic),45.08,3179.32,No
+Cust0423,Female,0,Yes,Yes,45,Yes,No,DSL,No internet service,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,66.46,3020.97,No
+Cust0424,Female,0,Yes,Yes,15,Yes,No phone service,Fiber optic,No,No internet service,No,No internet service,Yes,No,Two year,No,Mailed check,82.8,1210.1,Yes
+Cust0425,Female,0,No,No,14,No,Yes,Fiber optic,No,Yes,Yes,No internet service,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),75.23,1060.92,Yes
+Cust0426,Female,0,No,Yes,10,Yes,No,DSL,Yes,No,No,No internet service,No,No,Month-to-month,Yes,Credit card (automatic),49.68,493.77,Yes
+Cust0427,Male,0,Yes,No,36,No,No phone service,Fiber optic,No,No internet service,No,No internet service,No,Yes,Month-to-month,No,Credit card (automatic),78.11,2849.22,No
+Cust0428,Female,0,Yes,Yes,57,No,No,Fiber optic,No internet service,No internet service,No,Yes,Yes,No internet service,Two year,Yes,Credit card (automatic),78.96,4492.27,No
+Cust0429,Male,0,No,Yes,18,No,No,DSL,Yes,No internet service,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),51.74,917.13,No
+Cust0430,Female,0,Yes,Yes,43,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),51.89,2207.83,No
+Cust0431,Male,0,No,No,39,Yes,No,Fiber optic,No internet service,Yes,Yes,No,No,No internet service,Month-to-month,No,Mailed check,69.06,2695.69,No
+Cust0432,Female,0,Yes,No,70,Yes,No,DSL,Yes,No,No,No,No,No internet service,Month-to-month,Yes,Mailed check,28.66,1994.7,No
+Cust0433,Female,0,No,Yes,5,Yes,No phone service,DSL,Yes,No internet service,Yes,No,No internet service,No internet service,Two year,No,Electronic check,44.27,237.78,No
+Cust0434,Male,1,No,No,59,Yes,Yes,DSL,No,No,Yes,No internet service,No,Yes,Two year,Yes,Bank transfer (automatic),51.36,3039.53,No
+Cust0435,Male,1,Yes,Yes,66,Yes,No,No,No internet service,Yes,No internet service,No,No,Yes,Month-to-month,No,Mailed check,36.74,2405.48,Yes
+Cust0436,Male,0,Yes,Yes,31,Yes,No,No,No internet service,No,Yes,No,No internet service,Yes,One year,No,Electronic check,27.88,871.38,No
+Cust0437,Male,0,Yes,No,37,Yes,No,DSL,Yes,No internet service,Yes,No internet service,No internet service,Yes,One year,Yes,Bank transfer (automatic),56.03,2074.17,No
+Cust0438,Female,0,Yes,No,22,Yes,No,DSL,Yes,No,No internet service,No,No,No internet service,Month-to-month,Yes,Mailed check,37.57,807.05,Yes
+Cust0439,Female,0,Yes,Yes,65,Yes,Yes,DSL,Yes,No,No,No internet service,Yes,No,Month-to-month,Yes,Bank transfer (automatic),53.91,3516.08,Yes
+Cust0440,Male,0,Yes,No,52,Yes,Yes,DSL,Yes,No,No,Yes,No internet service,No internet service,Month-to-month,No,Credit card (automatic),43.71,2249.01,No
+Cust0441,Male,0,No,No,18,No,No phone service,Fiber optic,No internet service,No,No internet service,Yes,No,No internet service,Month-to-month,No,Credit card (automatic),59.16,1074.03,No
+Cust0442,Male,0,No,No,21,Yes,No phone service,DSL,Yes,No internet service,No,No,Yes,Yes,One year,No,Credit card (automatic),62.11,1312.41,No
+Cust0443,Female,1,No,No,24,Yes,No phone service,DSL,No internet service,No internet service,No,No,Yes,No internet service,Two year,Yes,Credit card (automatic),53.41,1273.02,Yes
+Cust0444,Male,0,No,Yes,67,Yes,No,No,Yes,Yes,No internet service,No,Yes,No internet service,Month-to-month,No,Credit card (automatic),26.73,1783.23,Yes
+Cust0445,Female,0,Yes,Yes,39,No,Yes,DSL,Yes,Yes,No,No internet service,No,No,Two year,No,Electronic check,45.0,1753.26,No
+Cust0446,Female,0,Yes,No,43,Yes,Yes,No,Yes,Yes,No,Yes,No internet service,No,Two year,Yes,Bank transfer (automatic),31.86,1369.91,No
+Cust0447,Female,0,Yes,Yes,63,Yes,No phone service,Fiber optic,No,Yes,Yes,No internet service,Yes,No,Two year,Yes,Credit card (automatic),80.8,5116.5,Yes
+Cust0448,Male,0,Yes,Yes,59,Yes,No phone service,Fiber optic,Yes,Yes,No internet service,No,No,No,Month-to-month,Yes,Credit card (automatic),65.84,3885.26,Yes
+Cust0449,Male,0,No,Yes,65,Yes,Yes,DSL,No internet service,No,No,No,Yes,Yes,Two year,Yes,Electronic check,62.74,4097.14,No
+Cust0450,Male,0,Yes,Yes,18,Yes,Yes,DSL,No,No,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),45.02,786.64,No
+Cust0451,Female,1,Yes,Yes,18,Yes,Yes,No,No internet service,Yes,Yes,No internet service,Yes,No,Two year,Yes,Electronic check,38.49,703.35,Yes
+Cust0452,Male,0,Yes,No,59,Yes,Yes,DSL,No internet service,No,No internet service,Yes,No,Yes,Month-to-month,No,Electronic check,58.16,3441.47,Yes
+Cust0453,Male,0,Yes,Yes,61,No,No,DSL,No internet service,No,Yes,Yes,No internet service,No internet service,One year,No,Bank transfer (automatic),41.75,2603.45,Yes
+Cust0454,Female,1,Yes,Yes,7,Yes,Yes,DSL,No,No internet service,No internet service,No,Yes,No,Two year,No,Mailed check,54.67,381.0,Yes
+Cust0455,Male,1,Yes,Yes,16,Yes,No phone service,Fiber optic,No internet service,Yes,Yes,Yes,No,No internet service,Month-to-month,Yes,Mailed check,66.68,1088.83,Yes
+Cust0456,Female,0,No,No,15,Yes,No,DSL,No internet service,No,No,Yes,No internet service,No,Month-to-month,Yes,Electronic check,46.53,709.85,No
+Cust0457,Female,0,No,No,38,Yes,No,DSL,No,No internet service,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),51.19,1947.41,No
+Cust0458,Female,0,No,Yes,7,Yes,Yes,DSL,Yes,Yes,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),46.54,329.89,Yes
+Cust0459,Male,1,Yes,Yes,53,Yes,No,DSL,Yes,No internet service,No,No internet service,Yes,Yes,One year,Yes,Credit card (automatic),66.3,3522.24,No
+Cust0460,Female,0,No,No,57,Yes,No phone service,Fiber optic,No,No,No internet service,No internet service,Yes,No internet service,One year,Yes,Mailed check,93.1,5330.4,No
+Cust0461,Female,1,No,Yes,10,Yes,Yes,DSL,No,No internet service,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),64.16,637.98,Yes
+Cust0462,Male,0,No,No,61,Yes,Yes,Fiber optic,No,Yes,No,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),90.82,5519.05,Yes
+Cust0463,Male,0,No,Yes,4,Yes,No,DSL,No,No internet service,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,50.86,197.76,Yes
+Cust0464,Male,1,No,No,55,Yes,No,Fiber optic,No,No,Yes,Yes,No internet service,No internet service,Month-to-month,No,Electronic check,75.52,4138.01,Yes
+Cust0465,Male,0,No,Yes,63,Yes,No,Fiber optic,No internet service,No internet service,Yes,No,No,No internet service,Month-to-month,No,Electronic check,75.02,4694.27,Yes
+Cust0466,Male,0,No,Yes,28,No,No phone service,DSL,No,Yes,No,Yes,No internet service,Yes,Two year,Yes,Electronic check,55.41,1585.08,No
+Cust0467,Female,0,No,Yes,11,Yes,No,DSL,No,No internet service,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Electronic check,45.69,507.2,Yes
+Cust0468,Male,1,No,Yes,0,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,No internet service,No internet service,Two year,No,Electronic check,72.13,0.0,Yes
+Cust0469,Female,0,Yes,Yes,7,Yes,No,DSL,No,No,Yes,Yes,No internet service,No,Month-to-month,Yes,Electronic check,47.59,300.93,Yes
+Cust0470,Male,0,Yes,Yes,13,Yes,No phone service,DSL,No internet service,Yes,No,Yes,No internet service,No,Month-to-month,No,Bank transfer (automatic),45.04,597.24,No
+Cust0471,Female,0,Yes,Yes,69,Yes,Yes,No,Yes,No internet service,No internet service,No,Yes,No,Month-to-month,Yes,Credit card (automatic),21.17,1467.83,No
+Cust0472,Male,0,Yes,Yes,52,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,Yes,No,Yes,Month-to-month,No,Electronic check,78.27,4048.28,Yes
+Cust0473,Male,0,No,No,69,Yes,No,Fiber optic,Yes,Yes,No,No internet service,No internet service,Yes,Month-to-month,No,Electronic check,82.19,5692.0,No
+Cust0474,Female,0,Yes,Yes,21,Yes,No phone service,DSL,No,No,No internet service,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),55.89,1141.47,Yes
+Cust0475,Female,1,No,No,67,Yes,No phone service,No,No internet service,Yes,No internet service,No,Yes,No,One year,Yes,Mailed check,25.07,1684.19,Yes
+Cust0476,Female,0,Yes,No,44,Yes,No,DSL,No internet service,No internet service,Yes,Yes,Yes,No,Two year,No,Electronic check,58.99,2593.3,No
+Cust0477,Female,0,Yes,No,36,Yes,No,No,Yes,No internet service,No,No,No internet service,No,One year,No,Electronic check,17.74,641.52,No
+Cust0478,Female,0,Yes,Yes,5,Yes,No,DSL,No,Yes,No,No internet service,No,No,One year,No,Electronic check,42.75,177.43,No
+Cust0479,Male,0,Yes,Yes,39,Yes,No,Fiber optic,No,No internet service,No,Yes,No,Yes,One year,No,Electronic check,79.77,3108.29,No
+Cust0480,Female,1,Yes,Yes,68,Yes,Yes,DSL,No,No,No internet service,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),59.22,3995.61,Yes
+Cust0481,Female,0,No,Yes,28,Yes,Yes,DSL,No internet service,No,No,No internet service,Yes,Yes,Month-to-month,Yes,Credit card (automatic),61.71,1730.32,No
+Cust0482,Male,0,Yes,No,10,Yes,No phone service,No,No,Yes,Yes,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),28.86,300.33,Yes
+Cust0483,Male,0,No,No,67,Yes,Yes,No,No internet service,No,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),17.65,1175.95,Yes
+Cust0484,Female,0,Yes,No,34,Yes,No,Fiber optic,Yes,No internet service,No internet service,No internet service,No,No,One year,Yes,Electronic check,69.91,2377.24,Yes
+Cust0485,Female,0,Yes,No,62,Yes,No phone service,DSL,Yes,No internet service,Yes,Yes,No,No internet service,Month-to-month,Yes,Credit card (automatic),45.25,2787.66,No
+Cust0486,Female,0,No,Yes,0,Yes,No phone service,No,No,No internet service,Yes,No,No internet service,No,One year,No,Electronic check,17.0,0.0,Yes
+Cust0487,Male,0,Yes,Yes,4,No,Yes,Fiber optic,Yes,Yes,No,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),79.6,339.51,Yes
+Cust0488,Female,0,No,No,65,Yes,Yes,DSL,Yes,No internet service,Yes,No internet service,No internet service,No,One year,No,Electronic check,47.7,3068.4,No
+Cust0489,Female,0,Yes,Yes,15,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,No internet service,No,Month-to-month,No,Credit card (automatic),71.76,1072.58,Yes
+Cust0490,Male,0,No,No,53,Yes,No phone service,Fiber optic,No,No internet service,No internet service,No,Yes,Yes,One year,Yes,Electronic check,84.45,4458.05,No
+Cust0491,Female,0,No,No,61,Yes,No,DSL,No,No,No,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),53.72,3283.82,Yes
+Cust0492,Male,1,No,Yes,71,Yes,No,DSL,No internet service,Yes,No,No internet service,No,Yes,Two year,No,Bank transfer (automatic),60.16,4258.21,No
+Cust0493,Male,1,Yes,No,35,No,Yes,DSL,Yes,No internet service,Yes,No,No internet service,Yes,One year,Yes,Mailed check,59.88,2076.95,No
+Cust0494,Male,1,Yes,No,30,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No internet service,No internet service,One year,No,Credit card (automatic),69.97,2070.23,No
+Cust0495,Female,0,Yes,Yes,39,Yes,No,DSL,Yes,No,No internet service,No,Yes,No,Month-to-month,Yes,Electronic check,59.02,2262.31,Yes
+Cust0496,Female,0,Yes,No,68,No,Yes,No,No,No internet service,Yes,No internet service,No internet service,Yes,One year,Yes,Electronic check,26.33,1792.55,Yes
+Cust0497,Female,0,No,No,40,Yes,No,DSL,No internet service,No internet service,No,No,Yes,No internet service,One year,No,Mailed check,56.84,2253.49,Yes
+Cust0498,Female,0,Yes,No,24,No,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,65.16,1569.63,No
+Cust0499,Male,0,Yes,Yes,63,No,Yes,Fiber optic,No internet service,No,No internet service,Yes,No,Yes,Month-to-month,Yes,Electronic check,79.24,4984.48,Yes
+Cust0500,Female,0,No,No,54,Yes,No,No,No,No internet service,Yes,No,No internet service,No,Two year,Yes,Bank transfer (automatic),21.09,1168.57,No
+Cust0501,Female,0,No,No,39,Yes,No phone service,Fiber optic,Yes,No,No,No,No,No internet service,One year,Yes,Bank transfer (automatic),70.37,2735.71,No
+Cust0502,Male,0,Yes,No,6,Yes,No phone service,Fiber optic,No internet service,No,No,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),69.1,440.49,Yes
+Cust0503,Female,1,Yes,No,43,Yes,Yes,Fiber optic,No,No internet service,No,No,No internet service,Yes,Month-to-month,No,Credit card (automatic),81.74,3529.92,Yes
+Cust0504,Male,0,Yes,No,48,Yes,Yes,Fiber optic,Yes,No internet service,No,Yes,No internet service,No internet service,One year,Yes,Mailed check,68.92,3320.34,No
+Cust0505,Male,0,No,No,65,No,Yes,Fiber optic,No,No,No internet service,No internet service,No internet service,No,Month-to-month,No,Electronic check,74.04,4832.12,Yes
+Cust0506,Female,0,Yes,No,61,Yes,No,Fiber optic,Yes,Yes,No,No,No internet service,Yes,Month-to-month,No,Mailed check,78.78,4824.6,No
+Cust0507,Male,0,No,No,65,Yes,No phone service,Fiber optic,No internet service,No,No,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),79.66,5174.64,Yes
+Cust0508,Female,0,Yes,Yes,59,Yes,No phone service,Fiber optic,Yes,No,No internet service,No internet service,No internet service,Yes,Month-to-month,No,Credit card (automatic),81.69,4792.1,Yes
+Cust0509,Female,1,No,No,56,Yes,No,DSL,No internet service,Yes,Yes,No,No internet service,No internet service,One year,No,Bank transfer (automatic),44.37,2503.44,No
+Cust0510,Female,0,No,No,40,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),83.49,3355.9,No
+Cust0511,Male,0,No,No,52,Yes,No phone service,DSL,No,No,No internet service,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),70.08,3654.93,Yes
+Cust0512,Female,0,Yes,Yes,15,Yes,No,DSL,No internet service,No,No internet service,No,No,Yes,Two year,Yes,Mailed check,46.35,697.38,Yes
+Cust0513,Female,0,No,Yes,69,Yes,No phone service,Fiber optic,Yes,No internet service,No,No,Yes,No internet service,Two year,Yes,Mailed check,80.96,5614.01,No
+Cust0514,Female,0,No,No,18,Yes,No,DSL,No internet service,No internet service,No,No,No internet service,No internet service,Month-to-month,Yes,Mailed check,44.21,786.3,No
+Cust0515,Male,0,No,No,42,Yes,No,DSL,Yes,No,No internet service,No,No,No,One year,No,Credit card (automatic),44.35,1890.44,No
+Cust0516,Female,0,Yes,Yes,2,Yes,Yes,Fiber optic,No,No internet service,No internet service,No internet service,No,No,One year,No,Credit card (automatic),61.95,122.49,No
+Cust0517,Female,0,No,No,58,No,No,DSL,No,Yes,Yes,No internet service,Yes,Yes,Two year,Yes,Mailed check,66.68,3880.99,No
+Cust0518,Male,0,No,No,51,Yes,No,No,No internet service,No,No,No internet service,No,Yes,Month-to-month,No,Mailed check,27.0,1380.04,Yes
+Cust0519,Male,0,No,No,7,Yes,No,DSL,No,No,No,No internet service,Yes,No internet service,One year,Yes,Electronic check,39.18,274.79,No
+Cust0520,Female,0,No,No,33,Yes,No,Fiber optic,No,No internet service,No internet service,No internet service,No,No,One year,Yes,Mailed check,73.33,2392.01,Yes
+Cust0521,Male,0,No,Yes,54,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No internet service,One year,Yes,Electronic check,48.63,2617.84,No
+Cust0522,Female,0,Yes,No,56,Yes,No,DSL,No internet service,Yes,Yes,No internet service,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),68.91,3874.93,No
+Cust0523,Female,0,Yes,Yes,10,Yes,Yes,No,Yes,Yes,No,No,Yes,No internet service,Month-to-month,No,Electronic check,25.94,254.66,Yes
+Cust0524,Male,0,Yes,No,1,Yes,No phone service,Fiber optic,No internet service,Yes,No,Yes,No internet service,No internet service,Two year,No,Electronic check,71.67,89.46,Yes
+Cust0525,Male,1,Yes,No,26,Yes,Yes,No,No internet service,No internet service,Yes,No internet service,No,Yes,Two year,No,Mailed check,26.85,665.6,Yes
+Cust0526,Male,0,Yes,No,8,Yes,No,DSL,No,No,No,No internet service,No,Yes,Month-to-month,Yes,Credit card (automatic),59.13,459.45,Yes
+Cust0527,Male,0,Yes,Yes,57,Yes,No phone service,Fiber optic,No internet service,No,No,No internet service,No internet service,Yes,Two year,No,Electronic check,78.16,4484.99,No
+Cust0528,Female,0,No,No,34,Yes,No,DSL,No,No internet service,No,No internet service,Yes,No internet service,Month-to-month,No,Credit card (automatic),54.82,1890.02,No
+Cust0529,Male,0,No,No,37,Yes,No,DSL,No,No internet service,No internet service,No,No internet service,Yes,Month-to-month,No,Credit card (automatic),58.57,2170.55,Yes
+Cust0530,Female,0,No,Yes,21,No,Yes,Fiber optic,Yes,No internet service,No,No internet service,No,Yes,Month-to-month,No,Mailed check,74.91,1580.2,Yes
+Cust0531,Female,0,Yes,Yes,56,Yes,Yes,No,Yes,No internet service,No internet service,Yes,No internet service,No internet service,Two year,Yes,Electronic check,22.08,1216.38,Yes
+Cust0532,Female,0,No,Yes,49,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No internet service,No,Month-to-month,No,Electronic check,70.53,3446.52,No
+Cust0533,Female,1,No,Yes,57,No,No,No,Yes,No internet service,No,Yes,Yes,No internet service,Month-to-month,Yes,Electronic check,30.54,1753.21,No
+Cust0534,Male,0,No,No,49,Yes,No,DSL,No internet service,No internet service,No internet service,Yes,Yes,No,Month-to-month,No,Electronic check,57.68,2812.03,Yes
+Cust0535,Male,0,No,No,12,Yes,Yes,Fiber optic,Yes,No internet service,No,Yes,No internet service,No internet service,Month-to-month,No,Credit card (automatic),65.3,808.29,Yes
+Cust0536,Female,0,No,Yes,6,Yes,No phone service,Fiber optic,No internet service,No,No internet service,No,Yes,No,Month-to-month,Yes,Electronic check,81.97,500.71,Yes
+Cust0537,Male,0,Yes,Yes,62,Yes,No,Fiber optic,No,No internet service,Yes,No internet service,Yes,No,Month-to-month,Yes,Electronic check,66.41,4081.43,No
+Cust0538,Male,0,Yes,Yes,45,Yes,Yes,DSL,No internet service,No,Yes,Yes,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),57.27,2595.5,Yes
+Cust0539,Male,0,No,Yes,58,Yes,No phone service,DSL,Yes,No internet service,No internet service,Yes,Yes,No internet service,One year,Yes,Bank transfer (automatic),52.75,3082.05,No
+Cust0540,Male,0,No,No,36,Yes,No phone service,DSL,Yes,Yes,Yes,No,No internet service,No internet service,Month-to-month,No,Electronic check,47.66,1712.02,No
+Cust0541,Female,0,Yes,Yes,61,Yes,Yes,DSL,No internet service,No,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),40.55,2460.61,No
+Cust0542,Female,0,Yes,No,27,Yes,No,DSL,No,No internet service,Yes,No,No,Yes,Two year,Yes,Bank transfer (automatic),52.8,1420.59,No
+Cust0543,Male,1,No,No,7,Yes,No phone service,No,No internet service,Yes,Yes,No internet service,No internet service,No,Month-to-month,Yes,Mailed check,28.29,186.37,Yes
+Cust0544,Male,0,Yes,No,49,Yes,No,DSL,No,No,No,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),52.01,2548.2,No
+Cust0545,Female,1,Yes,No,21,Yes,Yes,DSL,No internet service,No,No,No,No internet service,No internet service,One year,Yes,Credit card (automatic),42.69,901.78,No
+Cust0546,Male,0,No,Yes,12,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No internet service,No internet service,Yes,Month-to-month,Yes,Electronic check,79.5,905.04,Yes
+Cust0547,Male,0,No,No,53,Yes,No phone service,Fiber optic,No,No internet service,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),72.03,3824.4,No
+Cust0548,Female,0,Yes,No,42,Yes,No phone service,Fiber optic,No internet service,Yes,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),87.11,3668.08,No
+Cust0549,Male,0,Yes,Yes,69,Yes,Yes,DSL,No internet service,No internet service,No internet service,No,Yes,No internet service,Two year,Yes,Bank transfer (automatic),64.36,4420.71,No
+Cust0550,Female,0,Yes,Yes,41,Yes,No phone service,DSL,No internet service,No,No internet service,No internet service,Yes,Yes,Two year,Yes,Mailed check,61.81,2585.74,No
+Cust0551,Female,0,Yes,Yes,26,No,No,Fiber optic,Yes,No internet service,No,No,Yes,No,One year,Yes,Credit card (automatic),76.58,2008.1,No
+Cust0552,Female,0,No,Yes,0,Yes,No,Fiber optic,No,Yes,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),65.82,0.0,Yes
+Cust0553,Male,0,Yes,No,36,No,No,Fiber optic,No,No internet service,Yes,Yes,No internet service,No internet service,One year,No,Electronic check,70.06,2503.33,No
+Cust0554,Male,0,Yes,Yes,53,No,No phone service,Fiber optic,No,No internet service,Yes,No internet service,No,No,Two year,No,Mailed check,75.68,4006.44,Yes
+Cust0555,Female,0,No,Yes,58,Yes,No phone service,DSL,No internet service,No,No internet service,Yes,No,Yes,Two year,No,Bank transfer (automatic),53.64,3072.3,No
+Cust0556,Male,0,No,No,19,Yes,No phone service,Fiber optic,Yes,No internet service,No,No,No,No,Month-to-month,Yes,Mailed check,59.76,1156.36,Yes
+Cust0557,Female,1,Yes,No,51,Yes,Yes,DSL,No internet service,No internet service,No,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,63.13,3223.28,Yes
+Cust0558,Male,0,No,No,10,Yes,Yes,DSL,No internet service,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,75.59,756.24,Yes
+Cust0559,Female,1,Yes,Yes,68,No,No,No,No,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,No,Credit card (automatic),20.66,1448.26,Yes
+Cust0560,Male,0,Yes,No,38,Yes,Yes,DSL,No internet service,Yes,No,Yes,No,No,One year,No,Credit card (automatic),37.44,1471.48,No
+Cust0561,Female,0,Yes,No,60,Yes,No,DSL,No,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,No,Electronic check,60.72,3629.25,No
+Cust0562,Male,0,No,Yes,53,Yes,No,No,Yes,Yes,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Electronic check,14.08,750.01,Yes
+Cust0563,Female,1,No,No,45,Yes,No phone service,No,Yes,No internet service,No internet service,No,No,Yes,Month-to-month,No,Bank transfer (automatic),28.98,1276.28,Yes
+Cust0564,Female,0,No,Yes,27,Yes,Yes,DSL,No,Yes,No internet service,Yes,No internet service,Yes,Two year,Yes,Credit card (automatic),58.11,1575.53,No
+Cust0565,Male,0,No,No,35,Yes,No phone service,Fiber optic,No internet service,Yes,No,No internet service,No,No,One year,No,Mailed check,68.64,2432.5,No
+Cust0566,Male,0,Yes,No,20,Yes,No phone service,No,No internet service,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,45.05,886.02,Yes
+Cust0567,Male,0,No,Yes,70,Yes,No phone service,DSL,No,No internet service,Yes,Yes,No,No internet service,Month-to-month,No,Electronic check,48.66,3452.18,Yes
+Cust0568,Male,0,No,No,34,Yes,No,Fiber optic,Yes,No,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Credit card (automatic),88.67,3001.38,Yes
+Cust0569,Male,0,No,No,40,Yes,Yes,No,No,No internet service,No internet service,No internet service,No,No,Month-to-month,Yes,Electronic check,21.29,874.18,Yes
+Cust0570,Female,0,Yes,Yes,69,Yes,No,No,Yes,Yes,Yes,No internet service,No,No,Month-to-month,No,Bank transfer (automatic),21.96,1485.67,No
+Cust0571,Female,0,Yes,Yes,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No internet service,One year,Yes,Credit card (automatic),21.95,158.59,Yes
+Cust0572,Male,1,Yes,No,63,Yes,No,No,Yes,No,No,No,Yes,No,One year,Yes,Mailed check,20.89,1299.71,Yes
+Cust0573,Female,0,Yes,Yes,15,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,No internet service,Month-to-month,No,Credit card (automatic),79.9,1216.88,No
+Cust0574,Male,0,Yes,Yes,29,Yes,No phone service,Fiber optic,Yes,No,No internet service,No,No internet service,Yes,Month-to-month,Yes,Electronic check,83.21,2442.51,Yes
+Cust0575,Male,1,Yes,No,58,Yes,No phone service,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,51.52,2990.0,No
+Cust0576,Male,1,No,No,0,Yes,No phone service,DSL,No internet service,Yes,Yes,No,No internet service,No internet service,One year,No,Electronic check,39.18,0.0,Yes
+Cust0577,Male,0,Yes,Yes,9,Yes,No,DSL,Yes,No internet service,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Mailed check,41.41,381.74,Yes
+Cust0578,Male,0,Yes,No,33,Yes,Yes,DSL,No,No,No,Yes,No,No internet service,Two year,Yes,Bank transfer (automatic),52.21,1738.53,No
+Cust0579,Male,0,Yes,No,6,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,Yes,No internet service,Yes,One year,Yes,Mailed check,87.14,511.52,Yes
+Cust0580,Female,0,No,Yes,50,Yes,No,No,No internet service,No internet service,No,No internet service,No,No internet service,One year,Yes,Bank transfer (automatic),16.82,844.61,No
+Cust0581,Female,0,Yes,No,63,Yes,No,DSL,No internet service,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,59.35,3755.11,No
+Cust0582,Female,1,Yes,Yes,17,Yes,Yes,Fiber optic,Yes,No,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,82.77,1442.41,Yes
+Cust0583,Female,0,No,No,43,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Mailed check,72.03,3106.39,No
+Cust0584,Male,0,Yes,No,52,Yes,No,Fiber optic,No,Yes,No internet service,Yes,No,No internet service,Month-to-month,Yes,Electronic check,67.86,3517.87,No
+Cust0585,Male,0,Yes,Yes,66,Yes,No phone service,DSL,No internet service,No internet service,No internet service,No internet service,No,Yes,Month-to-month,Yes,Mailed check,57.8,3807.87,Yes
+Cust0586,Male,0,Yes,Yes,68,Yes,Yes,Fiber optic,No,Yes,Yes,No,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),75.59,5118.55,Yes
+Cust0587,Female,0,No,Yes,32,Yes,No phone service,DSL,No,No internet service,Yes,Yes,No internet service,No,One year,Yes,Bank transfer (automatic),49.41,1614.62,No
+Cust0588,Female,0,Yes,No,64,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),74.87,4778.89,Yes
+Cust0589,Female,0,Yes,No,20,Yes,No phone service,DSL,No internet service,No internet service,Yes,No internet service,No,No internet service,Month-to-month,No,Electronic check,42.22,836.47,Yes
+Cust0590,Female,0,No,Yes,69,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,No internet service,No internet service,Yes,One year,Yes,Bank transfer (automatic),89.07,6149.65,No
+Cust0591,Female,0,Yes,No,25,Yes,No phone service,Fiber optic,Yes,No,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),76.08,1917.19,Yes
+Cust0592,Male,0,Yes,No,5,Yes,Yes,Fiber optic,Yes,No,No internet service,No,Yes,No,Month-to-month,Yes,Electronic check,74.9,346.13,Yes
+Cust0593,Male,0,No,Yes,19,Yes,Yes,DSL,No internet service,No,Yes,Yes,Yes,No internet service,Month-to-month,No,Mailed check,61.07,1164.18,Yes
+Cust0594,Male,0,Yes,Yes,56,Yes,No,DSL,No internet service,No internet service,No internet service,Yes,No internet service,No internet service,Two year,No,Credit card (automatic),43.54,2465.09,No
+Cust0595,Female,0,No,Yes,20,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,67.06,1350.38,Yes
+Cust0596,Male,0,No,Yes,13,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,Yes,No internet service,No internet service,One year,Yes,Credit card (automatic),70.01,858.65,Yes
+Cust0597,Male,0,No,Yes,69,Yes,No phone service,DSL,No internet service,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Mailed check,54.5,3754.42,Yes
+Cust0598,Female,0,Yes,Yes,26,Yes,No phone service,DSL,No internet service,No internet service,Yes,No internet service,No,No,Month-to-month,No,Mailed check,40.83,1058.8,No
+Cust0599,Male,1,No,Yes,12,Yes,Yes,Fiber optic,No internet service,No,Yes,Yes,No internet service,No internet service,Two year,Yes,Credit card (automatic),67.88,789.66,No
+Cust0600,Female,0,No,No,64,Yes,Yes,No,No,No,No internet service,No internet service,Yes,No internet service,One year,Yes,Bank transfer (automatic),36.6,2362.16,No
+Cust0601,Male,0,Yes,Yes,11,Yes,Yes,DSL,Yes,No internet service,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,46.03,493.57,No
+Cust0602,Male,0,No,No,65,Yes,No phone service,No,No internet service,No internet service,No,No,No,No internet service,Month-to-month,No,Credit card (automatic),23.71,1544.57,Yes
+Cust0603,Female,0,No,Yes,8,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,No internet service,Two year,Yes,Electronic check,72.76,585.47,Yes
+Cust0604,Female,0,No,Yes,5,Yes,No,Fiber optic,No internet service,No,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Electronic check,70.88,368.71,Yes
+Cust0605,Female,1,Yes,Yes,23,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,Yes,No,Yes,One year,Yes,Mailed check,77.79,1793.59,Yes
+Cust0606,Female,0,Yes,No,49,Yes,Yes,DSL,Yes,No internet service,No internet service,No internet service,No internet service,No,One year,Yes,Electronic check,49.7,2412.91,No
+Cust0607,Male,1,No,Yes,70,Yes,No phone service,Fiber optic,No internet service,No,No internet service,No,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),89.49,6262.37,No
+Cust0608,Female,0,Yes,Yes,52,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,Yes,No,Yes,One year,Yes,Mailed check,80.61,4217.28,Yes
+Cust0609,Female,1,Yes,No,23,Yes,No,DSL,No,Yes,Yes,No,Yes,No internet service,One year,Yes,Bank transfer (automatic),60.28,1404.72,Yes
+Cust0610,Male,0,Yes,No,58,Yes,No phone service,DSL,Yes,No,No internet service,No internet service,No,No,Month-to-month,Yes,Electronic check,48.73,2810.42,Yes
+Cust0611,Female,0,No,No,56,Yes,No phone service,No,No,No,Yes,No internet service,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),23.84,1339.19,Yes
+Cust0612,Male,0,Yes,No,37,Yes,No,Fiber optic,Yes,No,No,Yes,No,No internet service,Two year,Yes,Credit card (automatic),74.34,2765.21,Yes
+Cust0613,Female,0,Yes,Yes,15,No,No,Fiber optic,No,No,No internet service,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),72.45,1129.91,No
+Cust0614,Female,1,No,No,26,Yes,No,DSL,Yes,Yes,Yes,No internet service,Yes,No internet service,One year,No,Bank transfer (automatic),61.9,1615.01,No
+Cust0615,Female,0,Yes,Yes,33,Yes,Yes,Fiber optic,No internet service,No,No internet service,Yes,Yes,Yes,Month-to-month,No,Mailed check,88.71,2934.57,Yes
+Cust0616,Male,1,Yes,Yes,35,Yes,Yes,Fiber optic,No internet service,Yes,Yes,No,No internet service,Yes,One year,Yes,Bank transfer (automatic),78.66,2731.84,No
+Cust0617,Male,0,Yes,Yes,13,Yes,Yes,DSL,Yes,Yes,Yes,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),51.74,653.82,Yes
+Cust0618,Male,0,No,No,16,Yes,No,No,No internet service,Yes,No,Yes,No internet service,No,Month-to-month,Yes,Credit card (automatic),11.09,157.71,Yes
+Cust0619,Female,0,Yes,Yes,19,Yes,No,Fiber optic,Yes,No internet service,No,Yes,No internet service,Yes,One year,No,Electronic check,76.86,1475.39,Yes
+Cust0620,Female,0,No,No,27,Yes,No phone service,Fiber optic,No internet service,No,No,No internet service,No,No,One year,No,Bank transfer (automatic),69.05,1844.92,No
+Cust0621,Male,0,Yes,No,68,No,No,DSL,No internet service,No,No internet service,No internet service,Yes,No,Month-to-month,No,Mailed check,53.1,3602.42,Yes
+Cust0622,Female,0,Yes,No,28,Yes,Yes,DSL,No internet service,Yes,Yes,No,No,Yes,Two year,No,Electronic check,57.98,1637.63,Yes
+Cust0623,Male,0,No,No,47,No,No,Fiber optic,No internet service,No,Yes,No,No,No,Two year,Yes,Mailed check,70.49,3310.01,No
+Cust0624,Female,1,No,Yes,54,Yes,No phone service,Fiber optic,No,No,Yes,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),80.88,4386.37,Yes
+Cust0625,Female,1,Yes,No,36,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Two year,Yes,Mailed check,87.77,3149.36,Yes
+Cust0626,Female,0,Yes,Yes,31,Yes,Yes,DSL,Yes,Yes,No,No,No internet service,Yes,One year,Yes,Credit card (automatic),53.27,1655.04,No
+Cust0627,Female,1,No,Yes,7,Yes,Yes,No,No internet service,No,No internet service,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),36.7,231.11,Yes
+Cust0628,Male,0,No,Yes,19,Yes,Yes,DSL,Yes,Yes,Yes,No internet service,Yes,No internet service,Two year,Yes,Mailed check,59.56,1169.59,No
+Cust0629,Female,0,No,No,40,Yes,No,DSL,Yes,No internet service,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Electronic check,47.93,1907.46,Yes
+Cust0630,Male,0,Yes,Yes,52,Yes,No,Fiber optic,Yes,No internet service,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),68.65,3580.99,Yes
+Cust0631,Male,0,No,No,8,No,No phone service,Fiber optic,No internet service,No,No internet service,No internet service,Yes,Yes,Month-to-month,No,Credit card (automatic),87.82,677.22,Yes
+Cust0632,Male,1,Yes,Yes,53,Yes,Yes,Fiber optic,Yes,No internet service,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,93.63,4959.76,Yes
+Cust0633,Female,1,Yes,No,27,Yes,Yes,DSL,No internet service,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Electronic check,56.23,1504.74,No
+Cust0634,Female,1,Yes,No,64,No,Yes,Fiber optic,No internet service,No internet service,No,No,No internet service,Yes,Month-to-month,Yes,Mailed check,76.85,4948.57,Yes
+Cust0635,Male,1,No,Yes,58,Yes,No phone service,DSL,No,No internet service,Yes,No internet service,No internet service,No,Month-to-month,No,Mailed check,56.85,3297.78,Yes
+Cust0636,Male,0,No,Yes,21,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Two year,Yes,Credit card (automatic),33.35,714.28,No
+Cust0637,Female,0,No,No,41,Yes,No phone service,No,No internet service,Yes,Yes,Yes,Yes,No internet service,Two year,No,Credit card (automatic),26.42,1067.1,No
+Cust0638,Female,0,No,No,20,Yes,Yes,DSL,No internet service,No,Yes,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),47.11,906.49,No
+Cust0639,Female,0,Yes,No,32,No,Yes,DSL,No internet service,Yes,No,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),44.44,1446.6,Yes
+Cust0640,Male,0,Yes,Yes,5,Yes,No phone service,Fiber optic,No,Yes,No internet service,No internet service,Yes,No,One year,No,Bank transfer (automatic),77.73,376.24,Yes
+Cust0641,Female,0,Yes,Yes,36,Yes,Yes,DSL,No internet service,No internet service,No internet service,No internet service,No,No,One year,Yes,Mailed check,43.72,1510.44,No
+Cust0642,Female,1,No,No,4,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),78.52,310.19,No
+Cust0643,Male,0,No,No,1,No,No,Fiber optic,Yes,No internet service,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,90.04,76.5,Yes
+Cust0644,Male,0,Yes,No,59,Yes,Yes,Fiber optic,Yes,Yes,No internet service,Yes,No internet service,No,Two year,Yes,Mailed check,66.51,3924.49,No
+Cust0645,Female,0,Yes,Yes,22,Yes,No phone service,No,No,No,No,No,No,No internet service,Month-to-month,No,Electronic check,16.08,340.56,No
+Cust0646,Female,0,Yes,No,14,Yes,No phone service,DSL,Yes,Yes,No internet service,Yes,No,No internet service,One year,Yes,Electronic check,45.09,636.68,Yes
+Cust0647,Male,0,No,Yes,50,Yes,Yes,DSL,Yes,Yes,No,No internet service,Yes,No,Two year,Yes,Electronic check,52.42,2638.63,Yes
+Cust0648,Male,0,No,Yes,53,Yes,No,DSL,No internet service,No internet service,No,No,No,No,Month-to-month,No,Credit card (automatic),43.42,2296.56,Yes
+Cust0649,Male,0,Yes,No,6,Yes,No phone service,DSL,No internet service,Yes,No internet service,Yes,No,Yes,Month-to-month,Yes,Electronic check,58.37,401.62,Yes
+Cust0650,Female,0,No,Yes,3,Yes,Yes,No,No,No,Yes,No,No,Yes,One year,No,Mailed check,25.99,89.45,No
+Cust0651,Female,0,No,Yes,40,Yes,Yes,DSL,No,No,No,No,Yes,Yes,One year,No,Mailed check,62.62,2492.33,No
+Cust0652,Female,0,Yes,No,47,Yes,No phone service,Fiber optic,No internet service,No,Yes,No internet service,No,Yes,One year,Yes,Mailed check,88.25,4140.33,No
+Cust0653,Male,0,No,Yes,57,Yes,No phone service,Fiber optic,No,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,No,Mailed check,72.57,4136.82,No
+Cust0654,Male,0,Yes,No,59,Yes,No phone service,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,Yes,Mailed check,78.56,4675.71,No
+Cust0655,Female,0,Yes,Yes,46,Yes,No phone service,No,Yes,No,No internet service,Yes,Yes,Yes,Two year,No,Credit card (automatic),41.37,1905.87,No
+Cust0656,Female,0,Yes,Yes,57,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),95.7,5478.09,Yes
+Cust0657,Male,0,Yes,Yes,42,Yes,Yes,DSL,No internet service,Yes,No,No internet service,No internet service,Yes,Month-to-month,Yes,Electronic check,53.39,2247.27,Yes
+Cust0658,Male,0,Yes,Yes,25,Yes,No phone service,Fiber optic,No,No,Yes,No,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),82.22,2023.59,No
+Cust0659,Female,0,Yes,No,13,Yes,No phone service,Fiber optic,No internet service,No,No,No internet service,No,Yes,One year,Yes,Mailed check,84.92,1083.16,No
+Cust0660,Female,0,No,No,60,Yes,Yes,DSL,No internet service,No,No internet service,No,Yes,No,Month-to-month,Yes,Mailed check,53.8,3276.84,No
+Cust0661,Male,0,No,No,65,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),78.1,5069.37,Yes
+Cust0662,Male,0,No,Yes,12,Yes,Yes,Fiber optic,Yes,Yes,No,No internet service,No,Yes,One year,Yes,Bank transfer (automatic),82.16,999.04,No
+Cust0663,Female,0,No,Yes,53,Yes,Yes,DSL,No,No,No,No internet service,No internet service,Yes,Two year,Yes,Mailed check,58.32,3112.08,Yes
+Cust0664,Male,0,No,Yes,35,Yes,No phone service,Fiber optic,No,No internet service,No,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,84.28,2974.44,Yes
+Cust0665,Female,1,Yes,Yes,12,Yes,No phone service,No,No internet service,Yes,No internet service,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),13.22,146.89,Yes
+Cust0666,Male,0,No,No,19,Yes,Yes,DSL,No internet service,No,No internet service,No,Yes,Yes,One year,No,Electronic check,60.59,1169.02,No
+Cust0667,Male,0,No,Yes,8,Yes,No phone service,No,No internet service,Yes,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),25.16,195.2,No
+Cust0668,Male,0,No,No,66,Yes,No phone service,No,No internet service,Yes,No,No internet service,No internet service,No internet service,One year,No,Mailed check,15.8,1074.02,Yes
+Cust0669,Female,0,No,No,41,Yes,No phone service,DSL,No,No internet service,No,Yes,No internet service,Yes,Month-to-month,No,Electronic check,51.64,2110.83,Yes
+Cust0670,Female,1,No,Yes,41,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,Yes,No internet service,No,One year,No,Bank transfer (automatic),64.96,2684.36,No
+Cust0671,Female,0,Yes,No,32,Yes,No phone service,DSL,No internet service,No,No internet service,No,No,No,Month-to-month,No,Mailed check,44.06,1416.11,No
+Cust0672,Female,0,No,No,20,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No internet service,No internet service,One year,Yes,Bank transfer (automatic),75.65,1532.68,No
+Cust0673,Female,0,Yes,No,16,Yes,No,No,No internet service,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),30.22,501.46,Yes
+Cust0674,Female,0,No,Yes,66,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),87.96,5822.4,Yes
+Cust0675,Male,0,No,Yes,42,Yes,No,DSL,No,No,No internet service,Yes,No internet service,No,Two year,Yes,Electronic check,50.17,2086.0,No
+Cust0676,Male,0,Yes,Yes,45,Yes,Yes,DSL,Yes,No,Yes,No,No internet service,Yes,One year,Yes,Credit card (automatic),58.09,2583.62,No
+Cust0677,Male,0,No,No,70,Yes,Yes,Fiber optic,No internet service,No,Yes,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),68.58,4804.36,No
+Cust0678,Male,0,Yes,No,34,Yes,Yes,Fiber optic,No internet service,Yes,No,No,No,Yes,One year,No,Credit card (automatic),75.93,2582.82,Yes
+Cust0679,Male,0,Yes,Yes,4,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card (automatic),35.65,128.42,Yes
+Cust0680,Male,0,No,Yes,30,Yes,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,No,Electronic check,32.79,993.73,Yes
+Cust0681,Male,0,No,Yes,9,Yes,No phone service,Fiber optic,Yes,No,No internet service,No,No internet service,No internet service,One year,No,Credit card (automatic),61.95,543.4,Yes
+Cust0682,Male,0,No,Yes,29,Yes,Yes,DSL,No internet service,No,No,Yes,No internet service,No internet service,Month-to-month,No,Electronic check,50.65,1488.47,No
+Cust0683,Male,0,Yes,Yes,35,Yes,No,No,No,No,No,No internet service,No,Yes,Month-to-month,Yes,Mailed check,28.72,1014.13,Yes
+Cust0684,Female,1,Yes,No,58,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No internet service,Yes,Month-to-month,No,Credit card (automatic),85.61,4991.86,Yes
+Cust0685,Female,0,No,Yes,67,Yes,Yes,DSL,No internet service,No,No internet service,Yes,Yes,No,One year,Yes,Bank transfer (automatic),47.16,3154.24,Yes
+Cust0686,Female,0,No,No,28,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No internet service,No,No,Month-to-month,Yes,Electronic check,66.79,1883.32,Yes
+Cust0687,Female,0,No,No,65,Yes,Yes,DSL,No,No internet service,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,48.29,3153.2,No
+Cust0688,Female,0,No,Yes,25,Yes,No phone service,No,No internet service,No internet service,No,No internet service,No,No internet service,Month-to-month,No,Credit card (automatic),16.55,412.24,Yes
+Cust0689,Female,0,No,No,19,Yes,No,Fiber optic,No,No internet service,No,No,Yes,No internet service,One year,No,Mailed check,80.02,1545.37,No
+Cust0690,Male,0,Yes,Yes,1,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,No,No,No,One year,Yes,Electronic check,74.22,100.43,No
+Cust0691,Female,0,Yes,No,7,Yes,Yes,Fiber optic,No,No,No internet service,Yes,No internet service,No,One year,No,Electronic check,61.65,413.34,No
+Cust0692,Male,0,Yes,Yes,56,No,No,DSL,Yes,No internet service,Yes,Yes,No internet service,Yes,One year,No,Bank transfer (automatic),47.8,2683.09,No
+Cust0693,Male,0,Yes,No,52,Yes,Yes,Fiber optic,No internet service,No,No,No internet service,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),76.46,3989.77,No
+Cust0694,Female,0,No,No,27,Yes,Yes,No,No,No internet service,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),41.6,1127.34,Yes
+Cust0695,Male,0,No,No,57,Yes,No phone service,Fiber optic,No internet service,Yes,Yes,Yes,Yes,No internet service,One year,No,Credit card (automatic),77.97,4442.05,Yes
+Cust0696,Female,0,Yes,Yes,30,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No internet service,No internet service,Two year,No,Electronic check,68.54,2015.15,Yes
+Cust0697,Male,1,Yes,Yes,14,No,No,DSL,No internet service,No internet service,No,No internet service,No internet service,Yes,Month-to-month,Yes,Electronic check,50.42,707.43,Yes
+Cust0698,Female,0,No,No,42,Yes,No phone service,DSL,No internet service,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,48.94,2082.84,Yes
+Cust0699,Female,0,No,Yes,64,Yes,No phone service,Fiber optic,No internet service,Yes,No,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),73.33,4689.95,No
+Cust0700,Male,0,Yes,No,6,Yes,Yes,DSL,No,Yes,Yes,No,No,No,Month-to-month,No,Credit card (automatic),37.61,231.24,Yes
+Cust0701,Male,0,Yes,No,34,Yes,No,Fiber optic,No internet service,No internet service,No,Yes,No internet service,Yes,Two year,Yes,Bank transfer (automatic),77.35,2640.33,No
+Cust0702,Male,1,No,No,9,Yes,No phone service,Fiber optic,No,Yes,No internet service,Yes,No internet service,No internet service,Two year,No,Credit card (automatic),66.47,589.18,Yes
+Cust0703,Male,0,No,No,35,Yes,No,DSL,Yes,No,No internet service,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),41.94,1473.11,No
+Cust0704,Female,0,No,Yes,45,Yes,No phone service,Fiber optic,No,No internet service,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),87.06,3915.31,No
+Cust0705,Female,0,Yes,Yes,30,Yes,No phone service,DSL,No,Yes,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,43.14,1299.38,No
+Cust0706,Female,0,Yes,No,62,Yes,Yes,DSL,No,No,No internet service,No internet service,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),52.76,3280.02,No
+Cust0707,Male,0,Yes,No,22,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Bank transfer (automatic),91.97,2024.01,No
+Cust0708,Female,0,Yes,Yes,47,Yes,No,No,Yes,Yes,No internet service,Yes,Yes,No internet service,One year,Yes,Credit card (automatic),29.38,1375.44,No
+Cust0709,Female,0,Yes,No,63,Yes,No,No,Yes,Yes,No,No internet service,Yes,No,One year,Yes,Credit card (automatic),31.68,2011.04,No
+Cust0710,Male,0,No,No,0,No,No,No,No,No,No internet service,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),41.85,0.0,Yes
+Cust0711,Male,0,No,No,51,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,No internet service,Month-to-month,Yes,Credit card (automatic),64.17,3298.1,No
+Cust0712,Male,0,Yes,No,57,Yes,No phone service,Fiber optic,No internet service,No,Yes,No,No,No internet service,Two year,Yes,Bank transfer (automatic),61.44,3514.53,No
+Cust0713,Female,0,Yes,No,16,Yes,Yes,Fiber optic,No internet service,Yes,Yes,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,84.75,1359.66,Yes
+Cust0714,Female,0,No,No,56,Yes,No,DSL,No internet service,No,Yes,No,No,Yes,One year,Yes,Credit card (automatic),61.75,3461.77,No
+Cust0715,Male,1,No,No,0,Yes,No,DSL,No internet service,No internet service,Yes,No internet service,Yes,Yes,Two year,Yes,Electronic check,61.72,0.0,No
+Cust0716,Female,0,No,No,62,Yes,Yes,DSL,Yes,Yes,No internet service,Yes,No,No,One year,Yes,Credit card (automatic),48.95,3053.27,No
+Cust0717,Male,0,Yes,No,43,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,Yes,No,Yes,Two year,Yes,Mailed check,77.27,3303.25,No
+Cust0718,Female,0,No,No,8,Yes,Yes,DSL,No internet service,No internet service,No internet service,No,No,No,Month-to-month,Yes,Mailed check,42.87,328.4,Yes
+Cust0719,Male,0,Yes,Yes,60,Yes,No phone service,No,No,No,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),19.91,1196.38,Yes
+Cust0720,Male,0,No,Yes,51,Yes,Yes,DSL,No internet service,No,No,Yes,Yes,No,One year,Yes,Credit card (automatic),50.02,2554.53,No
+Cust0721,Male,0,No,Yes,13,Yes,No phone service,Fiber optic,No,No internet service,Yes,No internet service,Yes,No,One year,Yes,Bank transfer (automatic),77.07,987.53,No
+Cust0722,Male,0,No,Yes,15,No,No,Fiber optic,No,No,No internet service,No,Yes,No internet service,Month-to-month,No,Mailed check,80.89,1189.81,No
+Cust0723,Female,0,No,Yes,16,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,One year,No,Bank transfer (automatic),74.88,1184.33,Yes
+Cust0724,Male,0,No,Yes,26,Yes,No,Fiber optic,Yes,Yes,Yes,No internet service,No internet service,No internet service,One year,Yes,Electronic check,68.87,1763.52,No
+Cust0725,Female,0,Yes,No,12,Yes,No,No,No internet service,Yes,Yes,No,No internet service,No internet service,Month-to-month,No,Mailed check,22.2,285.95,No
+Cust0726,Female,0,No,Yes,44,No,No phone service,Fiber optic,No,No,No internet service,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),70.04,3115.99,No
+Cust0727,Female,1,Yes,Yes,62,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,Yes,Yes,No,One year,No,Electronic check,81.41,5055.48,Yes
+Cust0728,Female,0,No,Yes,71,Yes,No,DSL,Yes,No internet service,Yes,Yes,No,No internet service,Month-to-month,Yes,Electronic check,35.53,2510.18,Yes
+Cust0729,Female,0,No,Yes,12,Yes,No,DSL,No internet service,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),57.48,668.58,Yes
+Cust0730,Female,0,No,No,58,No,No phone service,Fiber optic,No internet service,Yes,Yes,No,No internet service,No internet service,Two year,No,Bank transfer (automatic),69.29,4019.41,Yes
+Cust0731,Female,0,No,Yes,38,Yes,No phone service,No,No,No,No internet service,No internet service,Yes,No,Month-to-month,Yes,Mailed check,25.15,954.8,No
+Cust0732,Male,1,Yes,No,52,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,65.6,3409.84,Yes
+Cust0733,Female,1,No,Yes,11,Yes,No,Fiber optic,No internet service,Yes,Yes,No internet service,No internet service,Yes,One year,No,Bank transfer (automatic),77.54,838.21,No
+Cust0734,Female,0,No,No,33,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Month-to-month,No,Mailed check,19.85,658.32,No
+Cust0735,Female,0,No,No,20,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,61.58,1240.13,Yes
+Cust0736,Male,0,Yes,No,25,Yes,No,DSL,No internet service,No,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),33.42,875.0,Yes
+Cust0737,Female,0,No,Yes,23,Yes,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),61.38,1440.82,No
+Cust0738,Female,0,No,No,63,Yes,No phone service,Fiber optic,Yes,No internet service,No,Yes,Yes,No internet service,Two year,Yes,Bank transfer (automatic),73.46,4639.34,No
+Cust0739,Female,1,Yes,Yes,34,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No,No,Yes,Month-to-month,Yes,Credit card (automatic),85.41,2911.89,No
+Cust0740,Female,0,Yes,No,64,Yes,Yes,No,No,Yes,Yes,No internet service,No,No,Two year,Yes,Bank transfer (automatic),29.22,1888.82,No
+Cust0741,Male,1,No,No,28,Yes,No,Fiber optic,No internet service,No internet service,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Mailed check,72.37,2039.58,No
+Cust0742,Female,0,No,Yes,60,Yes,No,DSL,Yes,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,45.87,2719.29,No
+Cust0743,Male,0,Yes,Yes,66,Yes,Yes,DSL,No,No,No internet service,Yes,No,Yes,Two year,Yes,Credit card (automatic),53.49,3536.53,No
+Cust0744,Female,0,Yes,No,40,Yes,No,No,No internet service,No,No internet service,No,No,No,Month-to-month,No,Electronic check,23.17,922.81,No
+Cust0745,Male,0,Yes,No,20,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No internet service,One year,No,Electronic check,80.18,1586.43,No
+Cust0746,Female,0,Yes,Yes,41,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,No internet service,No internet service,No internet service,Two year,No,Mailed check,63.45,2663.44,Yes
+Cust0747,Female,0,Yes,Yes,22,Yes,No,Fiber optic,No internet service,No internet service,No,Yes,No,No internet service,Two year,Yes,Electronic check,71.7,1603.66,No
+Cust0748,Female,0,No,Yes,34,No,No,DSL,No internet service,No internet service,No internet service,Yes,No internet service,Yes,One year,No,Mailed check,63.24,2136.53,No
+Cust0749,Female,0,No,Yes,68,Yes,Yes,DSL,Yes,No internet service,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),53.34,3630.47,Yes
+Cust0750,Female,0,Yes,Yes,22,Yes,Yes,DSL,Yes,No internet service,Yes,No,No internet service,No internet service,One year,Yes,Mailed check,46.08,1036.18,Yes
+Cust0751,Male,0,No,No,27,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,No,Credit card (automatic),65.2,1726.06,Yes
+Cust0752,Male,0,Yes,Yes,9,Yes,No,No,No internet service,Yes,No internet service,No internet service,No,Yes,One year,Yes,Credit card (automatic),24.08,230.29,Yes
+Cust0753,Male,0,No,No,9,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,59.91,545.0,Yes
+Cust0754,Male,1,No,No,45,Yes,Yes,DSL,No,No,Yes,No,Yes,No,Month-to-month,No,Mailed check,60.51,2721.76,Yes
+Cust0755,Male,0,Yes,No,26,Yes,No,Fiber optic,No internet service,No,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),82.29,2129.43,No
+Cust0756,Male,1,No,Yes,32,Yes,No phone service,Fiber optic,No,No,No,No internet service,Yes,No internet service,Two year,Yes,Mailed check,86.3,2776.27,No
+Cust0757,Female,0,No,No,35,Yes,Yes,DSL,Yes,No,Yes,No internet service,No,Yes,Month-to-month,No,Mailed check,47.98,1668.21,No
+Cust0758,Male,0,Yes,No,40,Yes,No phone service,Fiber optic,No internet service,No,Yes,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),71.74,2854.52,Yes
+Cust0759,Female,1,Yes,No,4,Yes,Yes,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,62.66,261.41,Yes
+Cust0760,Male,0,Yes,No,46,Yes,No,DSL,Yes,Yes,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,38.39,1776.73,Yes
+Cust0761,Female,0,No,No,61,Yes,No phone service,DSL,No,No internet service,Yes,No internet service,No,Yes,Month-to-month,No,Electronic check,52.74,3231.31,Yes
+Cust0762,Female,1,No,Yes,34,Yes,No phone service,Fiber optic,No,No internet service,No,No internet service,No,No,Month-to-month,No,Credit card (automatic),71.12,2446.76,Yes
+Cust0763,Male,0,Yes,No,12,Yes,No,DSL,Yes,No internet service,No internet service,No internet service,No,No,One year,Yes,Credit card (automatic),41.15,511.22,No
+Cust0764,Female,1,Yes,Yes,49,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No internet service,Yes,One year,Yes,Bank transfer (automatic),72.59,3571.95,No
+Cust0765,Female,0,Yes,No,25,Yes,Yes,DSL,No,No,No internet service,No internet service,No,No,Two year,Yes,Electronic check,35.07,884.92,Yes
+Cust0766,Female,0,No,Yes,71,Yes,Yes,No,No,Yes,No,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),25.32,1791.93,No
+Cust0767,Female,0,Yes,No,17,Yes,Yes,Fiber optic,No internet service,No,No internet service,No,Yes,No,Month-to-month,Yes,Credit card (automatic),87.83,1507.87,No
+Cust0768,Female,0,No,No,23,Yes,No,No,No internet service,No,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,36.84,841.49,No
+Cust0769,Male,0,Yes,No,10,Yes,Yes,Fiber optic,No internet service,No,No,No internet service,Yes,No internet service,Two year,Yes,Bank transfer (automatic),89.18,865.43,Yes
+Cust0770,Male,0,No,No,37,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Month-to-month,No,Mailed check,29.33,1079.08,Yes
+Cust0771,Female,0,Yes,No,59,Yes,No phone service,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,76.71,4534.29,Yes
+Cust0772,Female,0,No,No,44,Yes,No phone service,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),81.71,3596.24,No
+Cust0773,Female,0,Yes,No,25,Yes,No,No,Yes,No internet service,No,Yes,No internet service,No internet service,One year,Yes,Bank transfer (automatic),24.43,573.58,Yes
+Cust0774,Male,0,Yes,Yes,17,No,No,DSL,No,No,Yes,Yes,No internet service,No internet service,Two year,No,Mailed check,41.54,707.51,Yes
+Cust0775,Female,0,No,No,30,Yes,No phone service,Fiber optic,Yes,No internet service,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),67.88,2065.04,No
+Cust0776,Male,0,Yes,No,21,Yes,No phone service,Fiber optic,No,No,No,No internet service,No internet service,Yes,Month-to-month,No,Credit card (automatic),80.24,1682.93,Yes
+Cust0777,Female,0,No,Yes,47,Yes,No phone service,Fiber optic,No internet service,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,80.07,3773.41,No
+Cust0778,Female,0,Yes,Yes,44,Yes,No phone service,Fiber optic,No internet service,Yes,No,No,Yes,No internet service,Month-to-month,No,Electronic check,73.5,3230.79,Yes
+Cust0779,Male,0,No,Yes,51,Yes,Yes,Fiber optic,Yes,No,Yes,No internet service,Yes,No,Month-to-month,No,Mailed check,83.75,4254.15,Yes
+Cust0780,Male,0,Yes,No,36,Yes,No,Fiber optic,No internet service,No internet service,Yes,No,No,No,One year,Yes,Mailed check,67.93,2462.45,Yes
+Cust0781,Male,0,No,Yes,39,Yes,No phone service,DSL,No internet service,No,No,No,No,Yes,One year,Yes,Bank transfer (automatic),61.92,2420.72,No
+Cust0782,Male,0,No,Yes,11,Yes,Yes,DSL,No internet service,No internet service,No,Yes,No internet service,No,Two year,Yes,Electronic check,42.75,455.33,Yes
+Cust0783,Female,0,Yes,No,12,Yes,Yes,DSL,No,Yes,No,No,Yes,No,One year,Yes,Electronic check,57.96,693.89,No
+Cust0784,Female,0,Yes,No,71,Yes,No,Fiber optic,No internet service,No,No internet service,Yes,Yes,No internet service,One year,Yes,Bank transfer (automatic),79.38,5658.3,No
+Cust0785,Female,0,No,Yes,58,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,47.74,2761.69,No
+Cust0786,Male,0,Yes,No,64,Yes,No phone service,Fiber optic,No internet service,No,No,No internet service,Yes,Yes,Month-to-month,No,Electronic check,93.96,6009.38,Yes
+Cust0787,Male,0,No,Yes,52,No,No,DSL,No,Yes,Yes,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,50.78,2614.86,Yes
+Cust0788,Female,1,Yes,No,54,Yes,No phone service,DSL,No,Yes,Yes,No internet service,No internet service,No,Two year,No,Bank transfer (automatic),48.13,2596.81,Yes
+Cust0789,Male,0,No,Yes,19,Yes,No phone service,No,No,No internet service,No internet service,No internet service,Yes,Yes,One year,No,Mailed check,35.78,679.78,No
+Cust0790,Male,0,Yes,No,53,Yes,No,Fiber optic,No internet service,No,No,Yes,No internet service,Yes,Month-to-month,No,Mailed check,79.09,4189.38,Yes
+Cust0791,Male,0,Yes,Yes,18,Yes,Yes,DSL,No,Yes,No internet service,No,No,No,Month-to-month,Yes,Credit card (automatic),45.31,820.22,Yes
+Cust0792,Male,0,No,Yes,50,Yes,Yes,DSL,Yes,Yes,No internet service,No,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),59.93,2992.44,No
+Cust0793,Male,0,No,No,65,Yes,No,No,No,No,No internet service,No,Yes,Yes,Month-to-month,No,Credit card (automatic),30.83,2010.72,No
+Cust0794,Female,0,Yes,Yes,17,Yes,Yes,DSL,No,No internet service,No,No,No,Yes,Month-to-month,Yes,Electronic check,59.63,1027.69,No
+Cust0795,Female,0,Yes,No,47,Yes,Yes,No,No,No internet service,No internet service,Yes,No,Yes,Month-to-month,Yes,Mailed check,24.28,1133.73,Yes
+Cust0796,Male,0,Yes,No,58,Yes,No phone service,Fiber optic,No,Yes,No,No internet service,Yes,No internet service,Two year,No,Mailed check,83.97,4905.92,No
+Cust0797,Female,0,Yes,No,35,Yes,Yes,No,Yes,No,No internet service,Yes,No internet service,Yes,One year,Yes,Credit card (automatic),31.65,1128.06,No
+Cust0798,Male,0,No,No,71,Yes,Yes,Fiber optic,No,No internet service,No internet service,No,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),67.89,4781.35,Yes
+Cust0799,Male,0,No,No,5,Yes,Yes,DSL,No,Yes,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),38.59,209.08,Yes
+Cust0800,Female,1,Yes,No,27,Yes,Yes,No,No,No internet service,No internet service,No internet service,No,No internet service,Two year,No,Electronic check,14.43,347.02,No
+Cust0801,Female,0,No,Yes,68,Yes,Yes,Fiber optic,Yes,Yes,No internet service,Yes,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),75.51,5114.4,Yes
+Cust0802,Female,0,Yes,No,57,Yes,Yes,DSL,No,No internet service,Yes,Yes,No,No internet service,One year,Yes,Credit card (automatic),41.05,2350.77,No
+Cust0803,Female,0,Yes,No,52,Yes,Yes,No,No,No internet service,Yes,No,No,No,One year,No,Bank transfer (automatic),25.18,1295.03,No
+Cust0804,Male,0,No,Yes,68,Yes,No,DSL,No,No internet service,No internet service,Yes,Yes,No,One year,No,Electronic check,54.31,3691.16,No
+Cust0805,Female,1,Yes,Yes,8,Yes,No,Fiber optic,No,No,No,No internet service,Yes,No internet service,Two year,No,Bank transfer (automatic),73.2,564.34,No
+Cust0806,Female,1,No,No,17,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,No,Yes,No,Two year,No,Mailed check,79.45,1364.71,No
+Cust0807,Female,0,Yes,Yes,43,Yes,No,DSL,No internet service,No internet service,Yes,No,No internet service,Yes,One year,No,Electronic check,42.94,1871.67,Yes
+Cust0808,Female,0,Yes,Yes,63,Yes,No,Fiber optic,No internet service,No internet service,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),85.26,5360.04,Yes
+Cust0809,Male,0,No,Yes,38,Yes,No phone service,DSL,No internet service,No,Yes,Yes,No internet service,No internet service,Month-to-month,No,Mailed check,46.2,1759.52,No
+Cust0810,Male,0,No,Yes,49,Yes,No,DSL,Yes,No,No internet service,No,Yes,No internet service,Two year,No,Mailed check,54.44,2680.8,Yes
+Cust0811,Female,0,No,No,60,Yes,No,No,Yes,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,15.96,939.59,No
+Cust0812,Female,0,No,No,25,Yes,No,DSL,No internet service,No internet service,No internet service,No internet service,Yes,Yes,One year,Yes,Bank transfer (automatic),67.13,1695.15,No
+Cust0813,Male,0,No,No,21,Yes,No phone service,DSL,Yes,Yes,No internet service,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,51.74,1089.73,No
+Cust0814,Male,1,Yes,Yes,38,Yes,Yes,DSL,Yes,Yes,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),43.8,1659.08,No
+Cust0815,Female,0,No,Yes,43,Yes,No phone service,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),56.06,2409.43,Yes
+Cust0816,Male,0,No,No,63,Yes,No phone service,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,76.85,4849.81,Yes
+Cust0817,Male,0,No,Yes,43,Yes,Yes,DSL,No,No internet service,No internet service,No internet service,No internet service,Yes,Month-to-month,No,Electronic check,53.25,2266.1,Yes
+Cust0818,Male,0,Yes,No,69,Yes,No,Fiber optic,Yes,No,No internet service,Yes,No,Yes,One year,Yes,Bank transfer (automatic),86.09,5926.09,No
+Cust0819,Female,0,No,Yes,47,Yes,Yes,Fiber optic,No internet service,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),66.05,3104.68,No
+Cust0820,Female,0,No,No,45,Yes,Yes,DSL,No internet service,Yes,No internet service,No internet service,No,Yes,One year,Yes,Electronic check,59.14,2653.11,No
+Cust0821,Male,0,Yes,Yes,59,Yes,No,No,No internet service,Yes,No internet service,No internet service,Yes,Yes,Two year,Yes,Credit card (automatic),42.27,2521.91,Yes
+Cust0822,Male,0,No,Yes,25,Yes,Yes,DSL,Yes,No internet service,Yes,Yes,No internet service,Yes,Two year,Yes,Credit card (automatic),55.62,1413.44,No
+Cust0823,Female,0,No,Yes,3,Yes,Yes,DSL,Yes,No internet service,No internet service,No,Yes,No,Month-to-month,Yes,Credit card (automatic),56.81,189.68,Yes
+Cust0824,Male,0,Yes,Yes,30,Yes,No,DSL,No internet service,No,No,No internet service,No,Yes,One year,Yes,Electronic check,44.08,1334.58,Yes
+Cust0825,Male,0,Yes,Yes,49,Yes,No phone service,Fiber optic,No,Yes,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Electronic check,66.56,3216.7,No
+Cust0826,Male,1,Yes,Yes,57,No,No phone service,Fiber optic,No,No,Yes,No internet service,No internet service,Yes,One year,No,Electronic check,80.22,4600.62,No
+Cust0827,Female,0,Yes,Yes,63,Yes,No,No,No,No internet service,Yes,No,Yes,No,Two year,Yes,Electronic check,30.45,1915.28,No
+Cust0828,Female,1,No,Yes,40,Yes,No phone service,No,No,No,No,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),23.27,933.65,No
+Cust0829,Male,0,Yes,No,17,Yes,Yes,Fiber optic,No,No internet service,Yes,Yes,No internet service,Yes,One year,Yes,Electronic check,82.03,1376.45,No
+Cust0830,Female,0,No,No,28,Yes,Yes,DSL,No,No internet service,No internet service,Yes,Yes,Yes,Month-to-month,No,Mailed check,68.46,1897.0,Yes
+Cust0831,Male,0,No,Yes,8,Yes,Yes,Fiber optic,No,No internet service,No,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),79.86,654.21,Yes
+Cust0832,Female,0,No,Yes,55,Yes,No phone service,DSL,No,No internet service,No,No internet service,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),52.02,2866.75,Yes
+Cust0833,Female,0,No,Yes,48,Yes,No,No,No,Yes,Yes,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,25.29,1174.23,No
+Cust0834,Female,0,Yes,Yes,26,Yes,Yes,Fiber optic,Yes,No,No internet service,No,Yes,No,One year,Yes,Bank transfer (automatic),78.51,2049.62,No
+Cust0835,Female,0,No,No,18,Yes,Yes,No,No internet service,No,No internet service,Yes,No,No,Month-to-month,Yes,Credit card (automatic),20.6,342.7,No
+Cust0836,Male,0,Yes,Yes,33,Yes,Yes,No,No,No,No internet service,No,No internet service,No internet service,One year,Yes,Credit card (automatic),16.36,517.29,No
+Cust0837,Female,0,No,Yes,51,Yes,Yes,Fiber optic,No internet service,No internet service,No,No internet service,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),84.13,4310.54,Yes
+Cust0838,Male,0,No,Yes,4,Yes,No phone service,Fiber optic,No,No internet service,No internet service,Yes,No,No internet service,Two year,Yes,Mailed check,70.89,280.76,No
+Cust0839,Female,0,Yes,No,35,Yes,No,DSL,No,No,No internet service,Yes,No,No,Month-to-month,No,Mailed check,34.63,1204.56,No
+Cust0840,Male,0,Yes,Yes,25,Yes,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),64.95,1620.87,Yes
+Cust0841,Male,0,Yes,Yes,55,Yes,No phone service,Fiber optic,No internet service,Yes,Yes,Yes,No,No,Two year,Yes,Mailed check,72.36,3961.67,No
+Cust0842,Female,0,No,No,5,Yes,No,No,Yes,No,No,No,Yes,Yes,One year,Yes,Mailed check,40.9,215.47,No
+Cust0843,Female,0,Yes,No,4,No,No,No,No,No,No internet service,No,No,No,Two year,Yes,Bank transfer (automatic),18.74,66.43,Yes
+Cust0844,Male,0,No,No,38,No,No phone service,DSL,Yes,No,No,Yes,No internet service,Yes,Two year,No,Mailed check,59.19,2242.53,No
+Cust0845,Female,0,Yes,No,69,Yes,Yes,DSL,Yes,No internet service,No internet service,Yes,No internet service,No,Month-to-month,No,Credit card (automatic),36.63,2517.1,Yes
+Cust0846,Male,0,No,Yes,15,Yes,Yes,Fiber optic,No,Yes,No internet service,Yes,Yes,Yes,Two year,Yes,Electronic check,89.54,1303.3,No
+Cust0847,Female,0,No,Yes,47,Yes,Yes,DSL,Yes,Yes,No,Yes,No internet service,No internet service,Two year,Yes,Mailed check,42.97,2002.16,Yes
+Cust0848,Female,0,No,No,21,Yes,Yes,DSL,Yes,No internet service,No internet service,Yes,No,No internet service,Month-to-month,Yes,Mailed check,47.2,978.06,Yes
+Cust0849,Male,1,No,No,29,Yes,No phone service,DSL,No,Yes,Yes,No internet service,No internet service,No,Two year,Yes,Electronic check,51.15,1466.13,No
+Cust0850,Male,0,No,Yes,22,Yes,Yes,Fiber optic,No internet service,No,Yes,No,Yes,No,One year,No,Bank transfer (automatic),68.0,1492.72,No
+Cust0851,Female,0,Yes,No,45,No,No,Fiber optic,No,No internet service,No,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),81.15,3621.08,No
+Cust0852,Male,0,Yes,Yes,0,Yes,Yes,DSL,No internet service,No internet service,No internet service,No,Yes,Yes,One year,Yes,Bank transfer (automatic),65.82,0.0,Yes
+Cust0853,Male,0,No,Yes,29,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),71.41,2053.93,Yes
+Cust0854,Female,0,Yes,No,15,No,No phone service,Fiber optic,Yes,No,No internet service,No internet service,No,Yes,Month-to-month,Yes,Credit card (automatic),82.75,1254.95,No
+Cust0855,Male,0,No,No,16,Yes,No phone service,DSL,No internet service,No internet service,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),59.82,943.73,No
+Cust0856,Male,0,Yes,No,34,No,No,DSL,No,No,No internet service,No,No internet service,No,One year,No,Bank transfer (automatic),47.72,1601.98,No
+Cust0857,Male,0,No,No,14,Yes,Yes,Fiber optic,No internet service,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,78.01,1057.94,No
+Cust0858,Male,0,Yes,Yes,16,No,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,No,Mailed check,81.26,1310.59,Yes
+Cust0859,Female,0,No,No,26,Yes,Yes,DSL,No,Yes,No internet service,Yes,No internet service,No internet service,Two year,Yes,Credit card (automatic),52.68,1351.32,No
+Cust0860,Male,1,Yes,Yes,14,Yes,No,No,Yes,No,No,Yes,No internet service,No,Month-to-month,No,Electronic check,17.38,251.28,Yes
+Cust0861,Female,0,Yes,No,60,Yes,No,Fiber optic,No internet service,Yes,Yes,No internet service,No,No internet service,Month-to-month,Yes,Mailed check,65.71,3937.78,Yes
+Cust0862,Male,0,No,No,22,Yes,No phone service,Fiber optic,No,No internet service,No,Yes,Yes,No internet service,Two year,No,Electronic check,78.01,1688.4,Yes
+Cust0863,Female,0,No,Yes,19,Yes,No phone service,DSL,Yes,No internet service,No,No internet service,No,No,Two year,No,Electronic check,54.71,1041.53,No
+Cust0864,Female,0,Yes,No,57,Yes,No,DSL,No internet service,No,No,No,No,No internet service,Month-to-month,Yes,Electronic check,41.31,2363.49,No
+Cust0865,Male,0,Yes,No,18,Yes,No,No,No internet service,No,Yes,Yes,Yes,No internet service,Month-to-month,Yes,Mailed check,33.25,607.25,No
+Cust0866,Female,0,Yes,Yes,38,Yes,Yes,Fiber optic,Yes,No,No internet service,No,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),77.46,2925.04,Yes
+Cust0867,Male,0,No,No,23,No,No phone service,Fiber optic,Yes,Yes,No internet service,No internet service,No,Yes,Two year,No,Electronic check,83.11,1900.09,Yes
+Cust0868,Male,0,No,Yes,15,Yes,No phone service,DSL,Yes,No,Yes,No internet service,No internet service,Yes,One year,No,Mailed check,51.65,802.32,No
+Cust0869,Female,0,Yes,No,41,Yes,Yes,Fiber optic,No,No internet service,Yes,No internet service,Yes,Yes,Month-to-month,Yes,Mailed check,88.52,3605.48,Yes
+Cust0870,Female,0,No,No,4,Yes,No,Fiber optic,No internet service,No,No internet service,No internet service,No internet service,No,One year,No,Electronic check,65.64,241.32,Yes
+Cust0871,Female,0,Yes,No,6,Yes,No phone service,DSL,No,No,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Mailed check,64.04,353.36,Yes
+Cust0872,Male,0,No,Yes,27,Yes,Yes,No,Yes,No internet service,No,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),11.98,360.26,No
+Cust0873,Female,0,No,No,2,No,No,No,Yes,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,16.76,1.65,Yes
+Cust0874,Male,0,No,No,2,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No,No,No,Month-to-month,No,Credit card (automatic),71.81,139.6,Yes
+Cust0875,Male,0,Yes,Yes,28,Yes,Yes,DSL,No internet service,No,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),49.43,1376.49,No
+Cust0876,Female,0,Yes,No,23,Yes,No,DSL,No,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),61.98,1414.72,Yes
+Cust0877,Female,0,No,No,58,Yes,No phone service,Fiber optic,No,No internet service,Yes,No internet service,Yes,No,Two year,Yes,Electronic check,92.52,5336.57,Yes
+Cust0878,Male,0,Yes,No,12,No,No,Fiber optic,No internet service,No,No internet service,No,No,Yes,One year,No,Credit card (automatic),74.58,907.72,No
+Cust0879,Female,0,Yes,Yes,21,Yes,No,No,No,No internet service,Yes,Yes,No,Yes,One year,No,Electronic check,27.73,628.42,No
+Cust0880,Female,0,Yes,Yes,24,No,No phone service,Fiber optic,No internet service,Yes,Yes,No,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),94.64,2260.52,Yes
+Cust0881,Female,0,No,Yes,66,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),65.72,4326.94,No
+Cust0882,Male,0,Yes,Yes,67,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),53.85,3609.64,Yes
+Cust0883,Male,0,No,Yes,32,Yes,No,Fiber optic,No internet service,Yes,No,Yes,No internet service,Yes,Month-to-month,No,Electronic check,70.62,2251.52,Yes
+Cust0884,Male,0,No,No,14,Yes,No,Fiber optic,No internet service,Yes,No internet service,No internet service,No internet service,Yes,One year,No,Mailed check,81.43,1121.59,No
+Cust0885,Female,0,Yes,No,49,Yes,Yes,Fiber optic,No,Yes,No,No,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),75.54,3685.44,No
+Cust0886,Male,0,Yes,Yes,0,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,75.29,0.0,Yes
+Cust0887,Female,0,Yes,No,48,Yes,No phone service,No,No,No internet service,Yes,Yes,No,No internet service,Two year,No,Mailed check,11.91,576.4,Yes
+Cust0888,Male,0,Yes,Yes,36,Yes,Yes,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer (automatic),48.25,1712.17,No
+Cust0889,Male,0,No,Yes,64,No,No phone service,DSL,Yes,No,No,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),41.9,2656.98,Yes
+Cust0890,Female,0,No,No,21,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,No internet service,No internet service,Yes,One year,No,Mailed check,79.85,1671.27,No
+Cust0891,Female,0,Yes,No,3,Yes,No,DSL,No internet service,No internet service,Yes,Yes,No internet service,No,Month-to-month,No,Credit card (automatic),47.18,170.13,Yes
+Cust0892,Female,1,Yes,No,29,No,No phone service,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),82.81,2385.27,Yes
+Cust0893,Female,0,Yes,No,68,Yes,Yes,Fiber optic,No internet service,Yes,Yes,No internet service,No,No internet service,Month-to-month,No,Mailed check,72.81,4980.19,Yes
+Cust0894,Female,0,No,Yes,56,Yes,No phone service,DSL,No internet service,Yes,No,Yes,Yes,No internet service,Two year,Yes,Bank transfer (automatic),59.38,3273.17,No
+Cust0895,Male,0,No,No,22,Yes,No,DSL,Yes,Yes,No,No,No internet service,No internet service,Two year,Yes,Electronic check,53.84,1189.61,No
+Cust0896,Female,0,Yes,No,50,Yes,Yes,Fiber optic,Yes,Yes,Yes,No internet service,No internet service,No,Two year,Yes,Bank transfer (automatic),67.02,3349.11,No
+Cust0897,Female,0,No,No,30,Yes,No phone service,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,75.7,2284.66,Yes
+Cust0898,Male,0,Yes,No,36,Yes,No phone service,No,No,No,No,No,No,No,One year,No,Bank transfer (automatic),25.33,893.84,No
+Cust0899,Female,1,Yes,No,1,Yes,No,DSL,Yes,No internet service,No,No internet service,Yes,No,Month-to-month,No,Credit card (automatic),63.47,67.51,Yes
+Cust0900,Male,0,No,No,28,Yes,No phone service,DSL,No,No internet service,Yes,No,No,No internet service,Two year,No,Credit card (automatic),40.34,1122.01,Yes
+Cust0901,Male,0,No,Yes,71,Yes,No,DSL,No,No internet service,No,Yes,No internet service,Yes,Month-to-month,Yes,Mailed check,58.67,4174.45,Yes
+Cust0902,Male,0,No,No,26,Yes,Yes,Fiber optic,No,No internet service,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,97.01,2494.66,Yes
+Cust0903,Male,0,Yes,No,20,Yes,No phone service,Fiber optic,No,Yes,Yes,No internet service,Yes,No,One year,No,Electronic check,70.52,1420.92,No
+Cust0904,Female,1,No,Yes,64,Yes,No phone service,Fiber optic,No internet service,No,No internet service,No,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),74.69,4765.54,Yes
+Cust0905,Female,0,No,No,35,Yes,No phone service,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,No,Mailed check,81.84,2868.17,Yes
+Cust0906,Male,0,No,Yes,34,Yes,No,DSL,No internet service,No internet service,No,No,No,No internet service,One year,Yes,Credit card (automatic),42.47,1445.41,No
+Cust0907,Male,0,Yes,No,4,Yes,No phone service,DSL,Yes,Yes,No internet service,No internet service,No internet service,Yes,Two year,Yes,Credit card (automatic),45.29,151.45,No
+Cust0908,Male,0,Yes,No,49,Yes,No,DSL,Yes,Yes,Yes,No,No internet service,No,Two year,No,Bank transfer (automatic),40.32,1988.97,No
+Cust0909,Female,0,No,No,23,Yes,Yes,DSL,No,Yes,No internet service,Yes,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),43.42,985.16,No
+Cust0910,Female,0,Yes,Yes,40,Yes,Yes,Fiber optic,No internet service,No,Yes,No internet service,Yes,No,Month-to-month,Yes,Electronic check,79.0,3157.15,No
+Cust0911,Female,0,Yes,Yes,57,No,No,Fiber optic,Yes,Yes,No internet service,Yes,No internet service,Yes,One year,No,Credit card (automatic),78.26,4479.67,Yes
+Cust0912,Female,0,No,No,62,Yes,No,DSL,No internet service,No internet service,No,Yes,Yes,No,Two year,No,Credit card (automatic),62.83,3905.54,No
+Cust0913,Male,0,No,No,28,No,No,Fiber optic,No,No,Yes,No internet service,No,Yes,One year,No,Electronic check,76.6,2183.7,No
+Cust0914,Male,0,No,No,0,Yes,No,DSL,No,No internet service,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),51.54,0.0,Yes
+Cust0915,Male,0,No,No,19,Yes,Yes,DSL,No internet service,No internet service,Yes,No,No internet service,No internet service,One year,Yes,Credit card (automatic),52.34,1000.12,No
+Cust0916,Male,0,Yes,Yes,0,Yes,No phone service,DSL,No internet service,No internet service,Yes,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,53.79,0.0,No
+Cust0917,Male,1,No,Yes,10,Yes,Yes,DSL,No,Yes,Yes,No internet service,No,No,Two year,Yes,Credit card (automatic),42.86,426.96,Yes
+Cust0918,Male,0,No,No,69,Yes,Yes,DSL,Yes,No,No,No internet service,No,No internet service,Month-to-month,Yes,Mailed check,40.71,2806.73,Yes
+Cust0919,Female,0,Yes,Yes,42,Yes,No phone service,DSL,Yes,Yes,No,No internet service,Yes,No,Month-to-month,Yes,Electronic check,52.63,2225.78,Yes
+Cust0920,Male,0,No,No,13,Yes,No,Fiber optic,No internet service,No,No,No,No,No,Month-to-month,Yes,Mailed check,70.58,895.92,Yes
+Cust0921,Male,0,No,No,29,Yes,Yes,DSL,No internet service,Yes,No internet service,Yes,No internet service,Yes,Month-to-month,No,Mailed check,48.01,1393.31,Yes
+Cust0922,Male,0,No,No,21,Yes,No phone service,DSL,No,No internet service,No internet service,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),62.06,1265.32,Yes
+Cust0923,Female,0,No,No,17,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),84.78,1460.2,No
+Cust0924,Female,0,Yes,Yes,1,No,Yes,Fiber optic,No internet service,No,No,No internet service,No,Yes,One year,No,Credit card (automatic),82.45,82.13,Yes
+Cust0925,Female,1,No,Yes,8,Yes,No phone service,DSL,Yes,Yes,Yes,No internet service,Yes,Yes,Two year,Yes,Mailed check,72.7,588.08,No
+Cust0926,Male,0,Yes,No,44,Yes,No,Fiber optic,Yes,No internet service,No internet service,Yes,No internet service,No,Month-to-month,No,Bank transfer (automatic),65.31,2870.38,Yes
+Cust0927,Male,0,No,No,4,Yes,No phone service,No,No,No internet service,No internet service,No internet service,No,No,Month-to-month,No,Bank transfer (automatic),25.35,91.01,Yes
+Cust0928,Female,0,No,No,70,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,Yes,No,No internet service,Month-to-month,Yes,Electronic check,67.02,4678.43,No
+Cust0929,Male,0,Yes,Yes,60,Yes,Yes,DSL,No internet service,No,No,Yes,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),42.93,2583.04,Yes
+Cust0930,Male,0,No,No,4,Yes,No,Fiber optic,No internet service,No internet service,No,Yes,No,No,Month-to-month,No,Electronic check,73.91,275.86,Yes
+Cust0931,Male,1,Yes,Yes,54,Yes,No phone service,Fiber optic,No,No internet service,Yes,No internet service,No,No,One year,Yes,Mailed check,81.87,4416.5,No
+Cust0932,Female,0,Yes,No,46,Yes,No phone service,DSL,No internet service,No internet service,No,No internet service,Yes,Yes,One year,Yes,Bank transfer (automatic),64.1,2939.53,No
+Cust0933,Female,0,Yes,No,7,No,No phone service,Fiber optic,Yes,No internet service,No internet service,No,Yes,No internet service,Month-to-month,No,Mailed check,81.33,571.16,Yes
+Cust0934,Male,0,Yes,No,6,Yes,No phone service,Fiber optic,No,Yes,No internet service,Yes,No,No internet service,Month-to-month,Yes,Credit card (automatic),74.37,435.14,Yes
+Cust0935,Female,0,Yes,Yes,15,No,Yes,DSL,No internet service,No,Yes,No internet service,Yes,No,One year,No,Electronic check,61.55,908.13,No
+Cust0936,Female,0,No,Yes,61,Yes,No,No,Yes,Yes,No internet service,No,Yes,No,Month-to-month,Yes,Credit card (automatic),27.8,1654.41,Yes
+Cust0937,Female,0,Yes,Yes,56,Yes,No phone service,DSL,No,Yes,No internet service,No internet service,No internet service,Yes,Two year,No,Bank transfer (automatic),51.63,2882.36,No
+Cust0938,Female,0,No,Yes,7,Yes,No,Fiber optic,No internet service,No internet service,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),78.26,534.78,Yes
+Cust0939,Male,0,Yes,No,25,No,No,Fiber optic,No,No internet service,Yes,No internet service,Yes,Yes,One year,Yes,Mailed check,91.19,2277.18,No
+Cust0940,Male,0,Yes,No,39,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No internet service,Month-to-month,Yes,Electronic check,73.63,2855.65,No
+Cust0941,Male,0,Yes,Yes,58,No,No phone service,Fiber optic,Yes,No,No,No,No,No,One year,Yes,Electronic check,68.48,3957.76,Yes
+Cust0942,Female,1,Yes,No,64,Yes,No,Fiber optic,No internet service,No,Yes,Yes,No internet service,No internet service,Month-to-month,No,Credit card (automatic),65.09,4189.53,Yes
+Cust0943,Male,0,Yes,Yes,40,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,88.4,3517.14,Yes
+Cust0944,Male,0,Yes,No,15,Yes,No,Fiber optic,No internet service,Yes,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,74.35,1132.36,No
+Cust0945,Male,0,Yes,Yes,25,Yes,Yes,DSL,No,No,No internet service,No,Yes,No,Month-to-month,Yes,Electronic check,55.52,1410.28,No
+Cust0946,Female,0,No,Yes,16,Yes,Yes,Fiber optic,No,Yes,No internet service,Yes,No,No internet service,Two year,No,Credit card (automatic),76.08,1197.8,No
+Cust0947,Female,0,No,No,12,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,Two year,No,Credit card (automatic),48.48,555.36,No
+Cust0948,Female,0,No,Yes,25,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,86.01,2198.16,Yes
+Cust0949,Female,0,No,Yes,54,Yes,Yes,DSL,No internet service,Yes,No internet service,Yes,No internet service,Yes,Two year,Yes,Bank transfer (automatic),45.53,2461.87,Yes
+Cust0950,Female,0,Yes,Yes,5,No,Yes,DSL,No,No,No,No,No,No,One year,No,Mailed check,43.94,206.62,Yes
+Cust0951,Female,0,No,Yes,66,No,No phone service,No,No internet service,Yes,No internet service,No,No internet service,No,Month-to-month,Yes,Electronic check,22.47,1506.89,No
+Cust0952,Female,0,Yes,Yes,69,Yes,No,No,No,No internet service,No internet service,No,Yes,No internet service,Two year,Yes,Bank transfer (automatic),19.71,1360.18,No
+Cust0953,Female,0,No,No,43,Yes,No phone service,Fiber optic,No internet service,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,91.8,3985.54,No
+Cust0954,Female,0,No,Yes,11,Yes,Yes,No,No internet service,Yes,No,No internet service,No internet service,No,Two year,Yes,Mailed check,26.38,293.61,No
+Cust0955,Male,0,Yes,No,30,Yes,No,No,Yes,No internet service,No internet service,Yes,No internet service,No internet service,One year,No,Mailed check,31.21,962.19,Yes
+Cust0956,Female,0,No,No,3,Yes,No,Fiber optic,No internet service,No internet service,Yes,No internet service,No,No,Month-to-month,Yes,Mailed check,71.65,251.29,Yes
+Cust0957,Male,0,Yes,Yes,44,Yes,Yes,DSL,No,No internet service,No,No,No internet service,Yes,One year,No,Bank transfer (automatic),51.47,2240.91,No
+Cust0958,Male,1,Yes,No,52,No,No,No,No internet service,No internet service,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Electronic check,35.98,1860.22,Yes
+Cust0959,Male,0,Yes,No,23,Yes,No,Fiber optic,Yes,No internet service,Yes,No internet service,No,Yes,Month-to-month,Yes,Bank transfer (automatic),76.46,1756.08,Yes
+Cust0960,Male,0,No,Yes,71,Yes,Yes,Fiber optic,Yes,No,No,No,No,No internet service,Month-to-month,No,Electronic check,67.19,4821.64,Yes
+Cust0961,Female,0,No,No,34,Yes,Yes,DSL,Yes,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,50.97,1725.37,Yes
+Cust0962,Female,0,No,Yes,17,Yes,No,Fiber optic,No,No,No,No internet service,Yes,No,Month-to-month,No,Mailed check,83.75,1447.63,No
+Cust0963,Female,0,Yes,No,4,Yes,No phone service,DSL,Yes,No,No,Yes,No,No internet service,Two year,Yes,Credit card (automatic),47.24,189.9,No
+Cust0964,Female,0,Yes,No,23,Yes,Yes,DSL,Yes,No,No internet service,No internet service,No internet service,No,Month-to-month,Yes,Mailed check,48.21,1142.84,Yes
+Cust0965,Female,0,No,No,62,Yes,No phone service,DSL,Yes,No,No,No internet service,No internet service,Yes,One year,Yes,Bank transfer (automatic),58.53,3594.96,No
+Cust0966,Female,0,No,Yes,40,No,No phone service,Fiber optic,No internet service,Yes,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,56.9,2272.14,No
+Cust0967,Female,0,No,Yes,30,Yes,No,Fiber optic,No internet service,Yes,No internet service,Yes,No internet service,No,Two year,Yes,Credit card (automatic),75.36,2278.97,No
+Cust0968,Male,0,No,Yes,21,Yes,Yes,Fiber optic,No,No internet service,No,No,No internet service,No internet service,One year,No,Credit card (automatic),73.21,1518.2,No
+Cust0969,Male,0,Yes,Yes,8,Yes,No phone service,DSL,No internet service,No,Yes,No,No,No,Two year,Yes,Mailed check,37.27,313.5,Yes
+Cust0970,Male,1,Yes,Yes,38,Yes,No,Fiber optic,Yes,No,No internet service,No internet service,No,No,Month-to-month,Yes,Electronic check,76.57,2885.33,Yes
+Cust0971,Female,0,Yes,Yes,60,Yes,Yes,Fiber optic,No,No internet service,No internet service,Yes,No internet service,No internet service,Two year,Yes,Credit card (automatic),72.2,4338.1,No
+Cust0972,Female,0,No,Yes,11,Yes,No,No,No,Yes,Yes,No internet service,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),23.85,268.35,Yes
+Cust0973,Female,0,Yes,Yes,22,Yes,Yes,Fiber optic,No internet service,Yes,No,No,No internet service,Yes,Month-to-month,No,Credit card (automatic),75.91,1709.94,Yes
+Cust0974,Female,0,Yes,No,29,Yes,No,Fiber optic,Yes,No internet service,No,Yes,No,No internet service,Month-to-month,No,Mailed check,72.94,2080.81,No
+Cust0975,Female,0,No,No,66,Yes,Yes,DSL,No,Yes,No internet service,Yes,No internet service,No internet service,One year,No,Bank transfer (automatic),35.43,2329.12,No
+Cust0976,Male,0,Yes,No,16,Yes,No,DSL,No internet service,No,No,No,Yes,No,Month-to-month,No,Credit card (automatic),53.65,840.61,No
+Cust0977,Female,0,Yes,No,56,Yes,Yes,DSL,No,Yes,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),69.99,3939.33,Yes
+Cust0978,Female,1,Yes,Yes,31,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No internet service,Month-to-month,No,Credit card (automatic),46.97,1468.33,Yes
+Cust0979,Male,1,No,Yes,32,Yes,No,Fiber optic,No internet service,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,70.13,2276.52,Yes
+Cust0980,Male,0,No,Yes,63,Yes,Yes,DSL,No internet service,Yes,Yes,No,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),55.92,3544.49,No
+Cust0981,Male,0,No,Yes,33,Yes,No,Fiber optic,No,No internet service,No,No internet service,No,No internet service,One year,No,Electronic check,72.84,2406.74,No
+Cust0982,Male,0,Yes,No,39,No,No,Fiber optic,No,Yes,Yes,No internet service,No,No internet service,One year,No,Bank transfer (automatic),64.55,2503.1,No
+Cust0983,Male,0,No,Yes,44,Yes,No phone service,DSL,No internet service,No,No internet service,No internet service,No,No internet service,One year,No,Mailed check,38.83,1729.47,No
+Cust0984,Female,0,No,Yes,33,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No internet service,One year,Yes,Credit card (automatic),57.58,1902.39,No
+Cust0985,Male,0,No,No,7,Yes,No phone service,Fiber optic,No,No internet service,Yes,No internet service,No,Yes,One year,No,Bank transfer (automatic),83.1,569.54,No
+Cust0986,Female,1,Yes,Yes,29,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,No,Electronic check,81.4,2367.32,No
+Cust0987,Male,0,Yes,No,40,Yes,Yes,DSL,No,Yes,Yes,No,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),41.01,1657.94,Yes
+Cust0988,Female,0,No,Yes,63,Yes,Yes,DSL,No,Yes,No,No,No internet service,Yes,Two year,Yes,Bank transfer (automatic),50.55,3195.56,No
+Cust0989,Female,0,Yes,Yes,57,No,No phone service,Fiber optic,Yes,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Credit card (automatic),93.61,5340.77,Yes
+Cust0990,Male,0,Yes,No,18,Yes,Yes,No,No,Yes,Yes,No,Yes,No internet service,One year,Yes,Electronic check,24.48,452.58,No
+Cust0991,Male,0,No,No,66,Yes,No phone service,Fiber optic,No,Yes,Yes,No,No internet service,No,Month-to-month,No,Bank transfer (automatic),74.44,4866.38,Yes
+Cust0992,Female,0,Yes,No,21,Yes,No,DSL,No,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,No,Credit card (automatic),58.51,1258.01,Yes
+Cust0993,Male,0,No,Yes,44,Yes,Yes,No,No internet service,No,No internet service,Yes,No,No,Two year,No,Bank transfer (automatic),23.4,1022.66,No
+Cust0994,Male,0,No,Yes,0,Yes,No,DSL,No internet service,Yes,No internet service,No,No,No internet service,Month-to-month,No,Mailed check,39.41,0.0,Yes
+Cust0995,Female,0,Yes,Yes,9,Yes,Yes,Fiber optic,No internet service,Yes,No,No,No internet service,Yes,Month-to-month,No,Credit card (automatic),67.75,593.68,Yes
+Cust0996,Male,0,Yes,No,56,Yes,No phone service,Fiber optic,No internet service,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,76.66,4223.68,Yes
+Cust0997,Male,0,No,Yes,69,Yes,Yes,Fiber optic,No internet service,No,Yes,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),68.07,4710.27,Yes
+Cust0998,Male,0,Yes,No,30,Yes,No phone service,Fiber optic,Yes,No internet service,No,Yes,No,No,One year,Yes,Credit card (automatic),75.97,2279.53,No
+Cust0999,Female,1,No,Yes,5,Yes,No phone service,DSL,Yes,Yes,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Mailed check,59.02,301.55,Yes
+Cust1000,Male,0,Yes,No,30,Yes,No,DSL,No internet service,No internet service,No internet service,No,No,No internet service,Two year,No,Credit card (automatic),51.26,1519.43,No
